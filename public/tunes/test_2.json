@@ -1,0 +1,222 @@
+[
+  {
+    "instrumentName": "Acoustic Guitar (steel)",
+    "notes": [
+      {
+        "time": 0,
+        "name": "A3",
+        "velocity": 79,
+        "duration": 396
+      },
+      {
+        "time": 396,
+        "name": "C4",
+        "velocity": 100,
+        "duration": 405
+      },
+      {
+        "time": 806,
+        "name": "E4",
+        "velocity": 100,
+        "duration": 395
+      },
+      {
+        "time": 1206,
+        "name": "A4",
+        "velocity": 100,
+        "duration": 394
+      },
+      {
+        "time": 1611,
+        "name": "B4",
+        "velocity": 100,
+        "duration": 5
+      },
+      {
+        "time": 1616,
+        "name": "Ab3",
+        "velocity": 100,
+        "duration": 381
+      },
+      {
+        "time": 2003,
+        "name": "E4",
+        "velocity": 100,
+        "duration": 398
+      },
+      {
+        "time": 2407,
+        "name": "C4",
+        "velocity": 100,
+        "duration": 390
+      },
+      {
+        "time": 2802,
+        "name": "B4",
+        "velocity": 100,
+        "duration": 395
+      },
+      {
+        "time": 3208,
+        "name": "C5",
+        "velocity": 100,
+        "duration": 5
+      },
+      {
+        "time": 3213,
+        "name": "G3",
+        "velocity": 100,
+        "duration": 387
+      },
+      {
+        "time": 3605,
+        "name": "E4",
+        "velocity": 100,
+        "duration": 391
+      },
+      {
+        "time": 4001,
+        "name": "C4",
+        "velocity": 100,
+        "duration": 398
+      },
+      {
+        "time": 4405,
+        "name": "C5",
+        "velocity": 100,
+        "duration": 393
+      },
+      {
+        "time": 4809,
+        "name": "Gb4",
+        "velocity": 100,
+        "duration": 6
+      },
+      {
+        "time": 4815,
+        "name": "Gb3",
+        "velocity": 100,
+        "duration": 383
+      },
+      {
+        "time": 5203,
+        "name": "D4",
+        "velocity": 100,
+        "duration": 397
+      },
+      {
+        "time": 5606,
+        "name": "A3",
+        "velocity": 100,
+        "duration": 391
+      },
+      {
+        "time": 6002,
+        "name": "Gb4",
+        "velocity": 100,
+        "duration": 398
+      },
+      {
+        "time": 6410,
+        "name": "E4",
+        "velocity": 100,
+        "duration": 5
+      },
+      {
+        "time": 6415,
+        "name": "F3",
+        "velocity": 100,
+        "duration": 383
+      },
+      {
+        "time": 6803,
+        "name": "C4",
+        "velocity": 100,
+        "duration": 395
+      },
+      {
+        "time": 7203,
+        "name": "A3",
+        "velocity": 100,
+        "duration": 373
+      },
+      {
+        "time": 7576,
+        "name": "C4",
+        "velocity": 100,
+        "duration": 21
+      },
+      {
+        "time": 8400,
+        "name": "E4",
+        "velocity": 100,
+        "duration": 401
+      },
+      {
+        "time": 8806,
+        "name": "C4",
+        "velocity": 100,
+        "duration": 393
+      },
+      {
+        "time": 9205,
+        "name": "A3",
+        "velocity": 100,
+        "duration": 392
+      },
+      {
+        "time": 9608,
+        "name": "B2",
+        "velocity": 100,
+        "duration": 6
+      },
+      {
+        "time": 9614,
+        "name": "G3",
+        "velocity": 100,
+        "duration": 383
+      },
+      {
+        "time": 10008,
+        "name": "A2",
+        "velocity": 100,
+        "duration": 5
+      },
+      {
+        "time": 10013,
+        "name": "A3",
+        "velocity": 100,
+        "duration": 386
+      },
+      {
+        "time": 10403,
+        "name": "A3",
+        "velocity": 100,
+        "duration": 1196
+      }
+    ]
+  },
+  {
+    "instrumentName": "Recorder",
+    "notes": [
+      {
+        "time": 9597,
+        "name": "G3",
+        "velocity": 79,
+        "duration": 400
+      },
+      {
+        "time": 10003,
+        "name": "A3",
+        "velocity": 100,
+        "duration": 396
+      },
+      {
+        "time": 10403,
+        "name": "A3",
+        "velocity": 100,
+        "duration": 1596
+      }
+    ]
+  }
+]

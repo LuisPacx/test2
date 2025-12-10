@@ -1,0 +1,227 @@
+[
+  {
+    "instrumentName": "Pad 1 (new age)",
+    "notes": [
+      {
+        "time": 0,
+        "name": "C5",
+        "velocity": 79,
+        "duration": 467
+      },
+      {
+        "time": 473,
+        "name": "A4",
+        "velocity": 100,
+        "duration": 497
+      },
+      {
+        "time": 975,
+        "name": "G4",
+        "velocity": 100,
+        "duration": 243
+      },
+      {
+        "time": 1222,
+        "name": "E4",
+        "velocity": 100,
+        "duration": 247
+      },
+      {
+        "time": 1475,
+        "name": "C4",
+        "velocity": 100,
+        "duration": 243
+      },
+      {
+        "time": 1724,
+        "name": "E4",
+        "velocity": 100,
+        "duration": 244
+      },
+      {
+        "time": 1974,
+        "name": "D5",
+        "velocity": 100,
+        "duration": 244
+      },
+      {
+        "time": 2223,
+        "name": "Bb4",
+        "velocity": 100,
+        "duration": 248
+      },
+      {
+        "time": 2477,
+        "name": "G4",
+        "velocity": 100,
+        "duration": 241
+      },
+      {
+        "time": 2724,
+        "name": "Eb4",
+        "velocity": 100,
+        "duration": 243
+      },
+      {
+        "time": 2973,
+        "name": "E4",
+        "velocity": 104,
+        "duration": 119
+      },
+      {
+        "time": 3098,
+        "name": "Gb4",
+        "velocity": 96,
+        "duration": 119
+      },
+      {
+        "time": 3222,
+        "name": "E4",
+        "velocity": 87,
+        "duration": 120
+      },
+      {
+        "time": 3347,
+        "name": "Gb4",
+        "velocity": 79,
+        "duration": 122
+      },
+      {
+        "time": 3474,
+        "name": "E4",
+        "velocity": 70,
+        "duration": 119
+      },
+      {
+        "time": 3599,
+        "name": "Gb4",
+        "velocity": 62,
+        "duration": 122
+      },
+      {
+        "time": 3725,
+        "name": "E4",
+        "velocity": 53,
+        "duration": 118
+      },
+      {
+        "time": 3849,
+        "name": "Gb4",
+        "velocity": 45,
+        "duration": 120
+      }
+    ]
+  },
+  {
+    "instrumentName": "Synth Strings 1",
+    "notes": [
+      {
+        "time": 0,
+        "name": "F3",
+        "velocity": 79,
+        "duration": 222
+      },
+      {
+        "time": 228,
+        "name": "Bb3",
+        "velocity": 100,
+        "duration": 239
+      },
+      {
+        "time": 473,
+        "name": "C4",
+        "velocity": 100,
+        "duration": 249
+      },
+      {
+        "time": 727,
+        "name": "D4",
+        "velocity": 100,
+        "duration": 243
+      },
+      {
+        "time": 975,
+        "name": "E4",
+        "velocity": 100,
+        "duration": 243
+      },
+      {
+        "time": 1222,
+        "name": "C4",
+        "velocity": 100,
+        "duration": 247
+      },
+      {
+        "time": 1475,
+        "name": "G3",
+        "velocity": 100,
+        "duration": 243
+      },
+      {
+        "time": 1724,
+        "name": "C4",
+        "velocity": 100,
+        "duration": 244
+      },
+      {
+        "time": 1974,
+        "name": "F4",
+        "velocity": 100,
+        "duration": 244
+      },
+      {
+        "time": 2223,
+        "name": "D4",
+        "velocity": 100,
+        "duration": 248
+      },
+      {
+        "time": 2477,
+        "name": "Bb3",
+        "velocity": 100,
+        "duration": 241
+      },
+      {
+        "time": 2724,
+        "name": "G3",
+        "velocity": 100,
+        "duration": 243
+      },
+      {
+        "time": 2973,
+        "name": "D4",
+        "velocity": 100,
+        "duration": 1257
+      }
+    ]
+  },
+  {
+    "instrumentName": "FX 7 (echoes)",
+    "notes": [
+      {
+        "time": 0,
+        "name": "Bb2",
+        "velocity": 79,
+        "duration": 975
+      },
+      {
+        "time": 981,
+        "name": "A2",
+        "velocity": 100,
+        "duration": 993
+      },
+      {
+        "time": 1980,
+        "name": "Eb2",
+        "velocity": 100,
+        "duration": 993
+      },
+      {
+        "time": 2979,
+        "name": "D2",
+        "velocity": 100,
+        "duration": 1245
+      }
+    ]
+  }
+]

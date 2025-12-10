@@ -1,0 +1,6737 @@
+[
+  {
+    "instrumentName": "Acoustic Grand Piano",
+    "notes": [
+      {
+        "time": 83,
+        "name": "D4",
+        "velocity": 67,
+        "duration": 355
+      },
+      {
+        "time": 443,
+        "name": "Bb2",
+        "velocity": 61,
+        "duration": 113
+      },
+      {
+        "time": 562,
+        "name": "Bb2",
+        "velocity": 60,
+        "duration": 123
+      },
+      {
+        "time": 691,
+        "name": "Bb2",
+        "velocity": 60,
+        "duration": 125
+      },
+      {
+        "time": 822,
+        "name": "Bb2",
+        "velocity": 72,
+        "duration": 395
+      },
+      {
+        "time": 1223,
+        "name": "D4",
+        "velocity": 54,
+        "duration": 130
+      },
+      {
+        "time": 1359,
+        "name": "D4",
+        "velocity": 54,
+        "duration": 116
+      },
+      {
+        "time": 1480,
+        "name": "D4",
+        "velocity": 62,
+        "duration": 534
+      },
+      {
+        "time": 2019,
+        "name": "C4",
+        "velocity": 64,
+        "duration": 385
+      },
+      {
+        "time": 2409,
+        "name": "Ab2",
+        "velocity": 72,
+        "duration": 392
+      },
+      {
+        "time": 2807,
+        "name": "C4",
+        "velocity": 54,
+        "duration": 123
+      },
+      {
+        "time": 2935,
+        "name": "C4",
+        "velocity": 54,
+        "duration": 119
+      },
+      {
+        "time": 3059,
+        "name": "C4",
+        "velocity": 62,
+        "duration": 536
+      },
+      {
+        "time": 3601,
+        "name": "Db4",
+        "velocity": 64,
+        "duration": 383
+      },
+      {
+        "time": 3989,
+        "name": "Gb2",
+        "velocity": 72,
+        "duration": 386
+      },
+      {
+        "time": 4380,
+        "name": "Db4",
+        "velocity": 54,
+        "duration": 128
+      },
+      {
+        "time": 4514,
+        "name": "Db4",
+        "velocity": 54,
+        "duration": 122
+      },
+      {
+        "time": 4642,
+        "name": "Db4",
+        "velocity": 54,
+        "duration": 531
+      },
+      {
+        "time": 5178,
+        "name": "A3",
+        "velocity": 64,
+        "duration": 387
+      },
+      {
+        "time": 5571,
+        "name": "A3",
+        "velocity": 65,
+        "duration": 383
+      },
+      {
+        "time": 5959,
+        "name": "A3",
+        "velocity": 54,
+        "duration": 186
+      },
+      {
+        "time": 6151,
+        "name": "A3",
+        "velocity": 54,
+        "duration": 598
+      },
+      {
+        "time": 6755,
+        "name": "F4",
+        "velocity": 70,
+        "duration": 780
+      },
+      {
+        "time": 7541,
+        "name": "Bb4",
+        "velocity": 70,
+        "duration": 376
+      },
+      {
+        "time": 7923,
+        "name": "F5",
+        "velocity": 73,
+        "duration": 1188
+      },
+      {
+        "time": 9117,
+        "name": "F5",
+        "velocity": 70,
+        "duration": 390
+      },
+      {
+        "time": 9512,
+        "name": "Bb5",
+        "velocity": 73,
+        "duration": 1180
+      },
+      {
+        "time": 10697,
+        "name": "Bb5",
+        "velocity": 70,
+        "duration": 379
+      },
+      {
+        "time": 11082,
+        "name": "Ab5",
+        "velocity": 73,
+        "duration": 401
+      },
+      {
+        "time": 11489,
+        "name": "F5",
+        "velocity": 70,
+        "duration": 780
+      },
+      {
+        "time": 12275,
+        "name": "F5",
+        "velocity": 70,
+        "duration": 380
+      },
+      {
+        "time": 12660,
+        "name": "Eb5",
+        "velocity": 73,
+        "duration": 403
+      },
+      {
+        "time": 13069,
+        "name": "Gb5",
+        "velocity": 70,
+        "duration": 782
+      },
+      {
+        "time": 13857,
+        "name": "F5",
+        "velocity": 70,
+        "duration": 370
+      },
+      {
+        "time": 14233,
+        "name": "Db5",
+        "velocity": 73,
+        "duration": 410
+      },
+      {
+        "time": 14649,
+        "name": "F5",
+        "velocity": 70,
+        "duration": 782
+      },
+      {
+        "time": 15436,
+        "name": "Eb5",
+        "velocity": 70,
+        "duration": 373
+      },
+      {
+        "time": 15814,
+        "name": "C5",
+        "velocity": 73,
+        "duration": 406
+      },
+      {
+        "time": 16225,
+        "name": "E5",
+        "velocity": 70,
+        "duration": 780
+      },
+      {
+        "time": 17011,
+        "name": "G5",
+        "velocity": 70,
+        "duration": 396
+      },
+      {
+        "time": 17413,
+        "name": "A4",
+        "velocity": 67,
+        "duration": 410
+      },
+      {
+        "time": 17829,
+        "name": "A3",
+        "velocity": 64,
+        "duration": 389
+      },
+      {
+        "time": 18224,
+        "name": "A3",
+        "velocity": 65,
+        "duration": 385
+      },
+      {
+        "time": 18614,
+        "name": "A3",
+        "velocity": 54,
+        "duration": 184
+      },
+      {
+        "time": 18804,
+        "name": "A3",
+        "velocity": 54,
+        "duration": 601
+      },
+      {
+        "time": 19411,
+        "name": "F4",
+        "velocity": 70,
+        "duration": 778
+      },
+      {
+        "time": 20195,
+        "name": "Bb4",
+        "velocity": 70,
+        "duration": 375
+      },
+      {
+        "time": 20576,
+        "name": "F5",
+        "velocity": 73,
+        "duration": 1190
+      },
+      {
+        "time": 21772,
+        "name": "F5",
+        "velocity": 70,
+        "duration": 381
+      },
+      {
+        "time": 22159,
+        "name": "Db5",
+        "velocity": 63,
+        "duration": 1189
+      },
+      {
+        "time": 23354,
+        "name": "E5",
+        "velocity": 63,
+        "duration": 777
+      },
+      {
+        "time": 24137,
+        "name": "C5",
+        "velocity": 64,
+        "duration": 788
+      },
+      {
+        "time": 24931,
+        "name": "A4",
+        "velocity": 64,
+        "duration": 381
+      },
+      {
+        "time": 25318,
+        "name": "B4",
+        "velocity": 67,
+        "duration": 787
+      },
+      {
+        "time": 26111,
+        "name": "E4",
+        "velocity": 72,
+        "duration": 142
+      },
+      {
+        "time": 26496,
+        "name": "Db5",
+        "velocity": 63,
+        "duration": 644
+      },
+      {
+        "time": 27306,
+        "name": "A4",
+        "velocity": 64,
+        "duration": 788
+      },
+      {
+        "time": 28100,
+        "name": "A4",
+        "velocity": 64,
+        "duration": 383
+      },
+      {
+        "time": 28490,
+        "name": "B4",
+        "velocity": 67,
+        "duration": 796
+      },
+      {
+        "time": 29292,
+        "name": "E4",
+        "velocity": 72,
+        "duration": 142
+      },
+      {
+        "time": 29676,
+        "name": "Db5",
+        "velocity": 63,
+        "duration": 641
+      },
+      {
+        "time": 30485,
+        "name": "A4",
+        "velocity": 64,
+        "duration": 789
+      },
+      {
+        "time": 31279,
+        "name": "A4",
+        "velocity": 64,
+        "duration": 384
+      },
+      {
+        "time": 31669,
+        "name": "Gb4",
+        "velocity": 67,
+        "duration": 791
+      },
+      {
+        "time": 32465,
+        "name": "B2",
+        "velocity": 72,
+        "duration": 387
+      },
+      {
+        "time": 32858,
+        "name": "B4",
+        "velocity": 64,
+        "duration": 392
+      },
+      {
+        "time": 33256,
+        "name": "Bb4",
+        "velocity": 67,
+        "duration": 403
+      },
+      {
+        "time": 33665,
+        "name": "F4",
+        "velocity": 64,
+        "duration": 773
+      },
+      {
+        "time": 34444,
+        "name": "Db4",
+        "velocity": 64,
+        "duration": 386
+      },
+      {
+        "time": 34836,
+        "name": "C5",
+        "velocity": 73,
+        "duration": 393
+      },
+      {
+        "time": 35234,
+        "name": "E5",
+        "velocity": 70,
+        "duration": 779
+      },
+      {
+        "time": 36018,
+        "name": "G5",
+        "velocity": 70,
+        "duration": 385
+      },
+      {
+        "time": 36409,
+        "name": "A4",
+        "velocity": 67,
+        "duration": 407
+      },
+      {
+        "time": 36822,
+        "name": "A3",
+        "velocity": 64,
+        "duration": 384
+      },
+      {
+        "time": 37211,
+        "name": "A3",
+        "velocity": 65,
+        "duration": 389
+      },
+      {
+        "time": 37605,
+        "name": "A3",
+        "velocity": 54,
+        "duration": 181
+      },
+      {
+        "time": 37791,
+        "name": "A3",
+        "velocity": 54,
+        "duration": 603
+      },
+      {
+        "time": 38400,
+        "name": "F4",
+        "velocity": 70,
+        "duration": 780
+      },
+      {
+        "time": 39185,
+        "name": "Bb4",
+        "velocity": 70,
+        "duration": 376
+      },
+      {
+        "time": 39567,
+        "name": "F5",
+        "velocity": 73,
+        "duration": 1191
+      },
+      {
+        "time": 40764,
+        "name": "F5",
+        "velocity": 70,
+        "duration": 374
+      },
+      {
+        "time": 41144,
+        "name": "Bb5",
+        "velocity": 73,
+        "duration": 1188
+      },
+      {
+        "time": 42338,
+        "name": "Bb5",
+        "velocity": 70,
+        "duration": 376
+      },
+      {
+        "time": 42720,
+        "name": "Ab5",
+        "velocity": 73,
+        "duration": 403
+      },
+      {
+        "time": 43129,
+        "name": "F5",
+        "velocity": 70,
+        "duration": 782
+      },
+      {
+        "time": 43917,
+        "name": "F5",
+        "velocity": 70,
+        "duration": 381
+      },
+      {
+        "time": 44304,
+        "name": "Eb5",
+        "velocity": 73,
+        "duration": 400
+      },
+      {
+        "time": 44710,
+        "name": "Gb5",
+        "velocity": 70,
+        "duration": 781
+      },
+      {
+        "time": 45497,
+        "name": "F5",
+        "velocity": 70,
+        "duration": 374
+      },
+      {
+        "time": 45877,
+        "name": "Db5",
+        "velocity": 73,
+        "duration": 408
+      },
+      {
+        "time": 46290,
+        "name": "F5",
+        "velocity": 70,
+        "duration": 783
+      },
+      {
+        "time": 47079,
+        "name": "Eb5",
+        "velocity": 70,
+        "duration": 368
+      },
+      {
+        "time": 47453,
+        "name": "C5",
+        "velocity": 73,
+        "duration": 408
+      },
+      {
+        "time": 47867,
+        "name": "E5",
+        "velocity": 70,
+        "duration": 781
+      },
+      {
+        "time": 48654,
+        "name": "G5",
+        "velocity": 70,
+        "duration": 396
+      },
+      {
+        "time": 49055,
+        "name": "A4",
+        "velocity": 67,
+        "duration": 413
+      },
+      {
+        "time": 49474,
+        "name": "A3",
+        "velocity": 64,
+        "duration": 384
+      },
+      {
+        "time": 49864,
+        "name": "A3",
+        "velocity": 65,
+        "duration": 389
+      },
+      {
+        "time": 50259,
+        "name": "A3",
+        "velocity": 54,
+        "duration": 183
+      },
+      {
+        "time": 50448,
+        "name": "A3",
+        "velocity": 54,
+        "duration": 596
+      },
+      {
+        "time": 51050,
+        "name": "F4",
+        "velocity": 70,
+        "duration": 782
+      },
+      {
+        "time": 51838,
+        "name": "Bb4",
+        "velocity": 70,
+        "duration": 380
+      },
+      {
+        "time": 52224,
+        "name": "F5",
+        "velocity": 73,
+        "duration": 1185
+      },
+      {
+        "time": 53415,
+        "name": "F5",
+        "velocity": 70,
+        "duration": 376
+      },
+      {
+        "time": 53796,
+        "name": "Db5",
+        "velocity": 63,
+        "duration": 1191
+      },
+      {
+        "time": 54992,
+        "name": "E5",
+        "velocity": 63,
+        "duration": 779
+      },
+      {
+        "time": 55776,
+        "name": "C5",
+        "velocity": 64,
+        "duration": 790
+      },
+      {
+        "time": 56571,
+        "name": "A4",
+        "velocity": 64,
+        "duration": 387
+      },
+      {
+        "time": 56964,
+        "name": "B4",
+        "velocity": 67,
+        "duration": 783
+      },
+      {
+        "time": 57753,
+        "name": "E4",
+        "velocity": 72,
+        "duration": 144
+      },
+      {
+        "time": 58137,
+        "name": "Db5",
+        "velocity": 63,
+        "duration": 650
+      },
+      {
+        "time": 58951,
+        "name": "A4",
+        "velocity": 64,
+        "duration": 787
+      },
+      {
+        "time": 59743,
+        "name": "A4",
+        "velocity": 64,
+        "duration": 388
+      },
+      {
+        "time": 60136,
+        "name": "B4",
+        "velocity": 67,
+        "duration": 794
+      },
+      {
+        "time": 60936,
+        "name": "E4",
+        "velocity": 72,
+        "duration": 138
+      },
+      {
+        "time": 61317,
+        "name": "Db5",
+        "velocity": 63,
+        "duration": 641
+      },
+      {
+        "time": 62132,
+        "name": "A4",
+        "velocity": 64,
+        "duration": 785
+      },
+      {
+        "time": 62923,
+        "name": "A4",
+        "velocity": 64,
+        "duration": 382
+      },
+      {
+        "time": 63311,
+        "name": "Gb4",
+        "velocity": 67,
+        "duration": 793
+      },
+      {
+        "time": 64110,
+        "name": "B2",
+        "velocity": 72,
+        "duration": 380
+      },
+      {
+        "time": 64496,
+        "name": "B4",
+        "velocity": 64,
+        "duration": 395
+      },
+      {
+        "time": 64897,
+        "name": "Bb4",
+        "velocity": 67,
+        "duration": 405
+      },
+      {
+        "time": 65307,
+        "name": "F4",
+        "velocity": 64,
+        "duration": 775
+      },
+      {
+        "time": 66088,
+        "name": "Db4",
+        "velocity": 64,
+        "duration": 382
+      },
+      {
+        "time": 66478,
+        "name": "C5",
+        "velocity": 73,
+        "duration": 400
+      },
+      {
+        "time": 66884,
+        "name": "E5",
+        "velocity": 70,
+        "duration": 769
+      },
+      {
+        "time": 67659,
+        "name": "G5",
+        "velocity": 70,
+        "duration": 387
+      },
+      {
+        "time": 68051,
+        "name": "A4",
+        "velocity": 67,
+        "duration": 405
+      },
+      {
+        "time": 68461,
+        "name": "A3",
+        "velocity": 64,
+        "duration": 385
+      },
+      {
+        "time": 68852,
+        "name": "A3",
+        "velocity": 65,
+        "duration": 390
+      },
+      {
+        "time": 69248,
+        "name": "A3",
+        "velocity": 54,
+        "duration": 180
+      },
+      {
+        "time": 69434,
+        "name": "A3",
+        "velocity": 54,
+        "duration": 601
+      },
+      {
+        "time": 70040,
+        "name": "F4",
+        "velocity": 70,
+        "duration": 781
+      },
+      {
+        "time": 70827,
+        "name": "Bb4",
+        "velocity": 70,
+        "duration": 376
+      },
+      {
+        "time": 71209,
+        "name": "F5",
+        "velocity": 73,
+        "duration": 1190
+      },
+      {
+        "time": 72405,
+        "name": "F5",
+        "velocity": 70,
+        "duration": 376
+      },
+      {
+        "time": 72787,
+        "name": "Bb5",
+        "velocity": 73,
+        "duration": 1189
+      },
+      {
+        "time": 73982,
+        "name": "Bb5",
+        "velocity": 70,
+        "duration": 379
+      },
+      {
+        "time": 74367,
+        "name": "Ab5",
+        "velocity": 73,
+        "duration": 405
+      },
+      {
+        "time": 74777,
+        "name": "F5",
+        "velocity": 70,
+        "duration": 776
+      },
+      {
+        "time": 75559,
+        "name": "F5",
+        "velocity": 70,
+        "duration": 382
+      },
+      {
+        "time": 75946,
+        "name": "Eb5",
+        "velocity": 73,
+        "duration": 403
+      },
+      {
+        "time": 76354,
+        "name": "Gb5",
+        "velocity": 70,
+        "duration": 781
+      },
+      {
+        "time": 77141,
+        "name": "F5",
+        "velocity": 70,
+        "duration": 374
+      },
+      {
+        "time": 77520,
+        "name": "Db5",
+        "velocity": 73,
+        "duration": 406
+      },
+      {
+        "time": 77932,
+        "name": "F5",
+        "velocity": 70,
+        "duration": 779
+      },
+      {
+        "time": 78716,
+        "name": "Eb5",
+        "velocity": 70,
+        "duration": 374
+      },
+      {
+        "time": 79096,
+        "name": "C5",
+        "velocity": 73,
+        "duration": 409
+      },
+      {
+        "time": 79511,
+        "name": "E5",
+        "velocity": 70,
+        "duration": 780
+      },
+      {
+        "time": 80297,
+        "name": "G5",
+        "velocity": 70,
+        "duration": 397
+      },
+      {
+        "time": 80700,
+        "name": "A4",
+        "velocity": 67,
+        "duration": 409
+      },
+      {
+        "time": 81115,
+        "name": "A3",
+        "velocity": 64,
+        "duration": 388
+      },
+      {
+        "time": 81508,
+        "name": "A3",
+        "velocity": 65,
+        "duration": 384
+      },
+      {
+        "time": 81897,
+        "name": "A3",
+        "velocity": 54,
+        "duration": 186
+      },
+      {
+        "time": 82089,
+        "name": "A3",
+        "velocity": 54,
+        "duration": 600
+      },
+      {
+        "time": 82694,
+        "name": "F4",
+        "velocity": 70,
+        "duration": 779
+      },
+      {
+        "time": 83478,
+        "name": "Bb4",
+        "velocity": 70,
+        "duration": 376
+      },
+      {
+        "time": 83860,
+        "name": "F5",
+        "velocity": 73,
+        "duration": 1191
+      },
+      {
+        "time": 85057,
+        "name": "F5",
+        "velocity": 70,
+        "duration": 377
+      },
+      {
+        "time": 85439,
+        "name": "Db5",
+        "velocity": 63,
+        "duration": 1190
+      },
+      {
+        "time": 86635,
+        "name": "E5",
+        "velocity": 63,
+        "duration": 777
+      },
+      {
+        "time": 87417,
+        "name": "C5",
+        "velocity": 64,
+        "duration": 792
+      },
+      {
+        "time": 88214,
+        "name": "A4",
+        "velocity": 64,
+        "duration": 383
+      },
+      {
+        "time": 88605,
+        "name": "B4",
+        "velocity": 67,
+        "duration": 782
+      },
+      {
+        "time": 89393,
+        "name": "E4",
+        "velocity": 72,
+        "duration": 149
+      },
+      {
+        "time": 89778,
+        "name": "Db5",
+        "velocity": 63,
+        "duration": 646
+      },
+      {
+        "time": 90591,
+        "name": "A4",
+        "velocity": 64,
+        "duration": 792
+      },
+      {
+        "time": 91389,
+        "name": "A4",
+        "velocity": 64,
+        "duration": 379
+      },
+      {
+        "time": 91774,
+        "name": "B4",
+        "velocity": 67,
+        "duration": 796
+      },
+      {
+        "time": 92576,
+        "name": "E4",
+        "velocity": 72,
+        "duration": 140
+      },
+      {
+        "time": 92958,
+        "name": "Db5",
+        "velocity": 63,
+        "duration": 644
+      },
+      {
+        "time": 93771,
+        "name": "A4",
+        "velocity": 64,
+        "duration": 791
+      },
+      {
+        "time": 94568,
+        "name": "A4",
+        "velocity": 64,
+        "duration": 381
+      },
+      {
+        "time": 94954,
+        "name": "Gb4",
+        "velocity": 67,
+        "duration": 790
+      },
+      {
+        "time": 95750,
+        "name": "B2",
+        "velocity": 72,
+        "duration": 384
+      },
+      {
+        "time": 96139,
+        "name": "B4",
+        "velocity": 64,
+        "duration": 396
+      },
+      {
+        "time": 96541,
+        "name": "Bb4",
+        "velocity": 67,
+        "duration": 401
+      },
+      {
+        "time": 96948,
+        "name": "F4",
+        "velocity": 64,
+        "duration": 775
+      },
+      {
+        "time": 97729,
+        "name": "Db4",
+        "velocity": 64,
+        "duration": 385
+      },
+      {
+        "time": 98120,
+        "name": "C5",
+        "velocity": 73,
+        "duration": 395
+      },
+      {
+        "time": 98521,
+        "name": "E5",
+        "velocity": 70,
+        "duration": 774
+      },
+      {
+        "time": 99301,
+        "name": "G5",
+        "velocity": 70,
+        "duration": 386
+      },
+      {
+        "time": 99692,
+        "name": "A4",
+        "velocity": 67,
+        "duration": 408
+      },
+      {
+        "time": 100106,
+        "name": "A3",
+        "velocity": 64,
+        "duration": 385
+      },
+      {
+        "time": 100497,
+        "name": "A3",
+        "velocity": 65,
+        "duration": 384
+      },
+      {
+        "time": 100887,
+        "name": "A3",
+        "velocity": 54,
+        "duration": 180
+      },
+      {
+        "time": 101073,
+        "name": "A3",
+        "velocity": 54,
+        "duration": 0
+      },
+      {
+        "time": 101078,
+        "name": "F4",
+        "velocity": 61,
+        "duration": 0
+      },
+      {
+        "time": 101084,
+        "name": "A2",
+        "velocity": 69,
+        "duration": 162
+      }
+    ]
+  },
+  {
+    "instrumentName": "Electric Guitar (jazz)",
+    "notes": [
+      {
+        "time": 89,
+        "name": "Bb4",
+        "velocity": 75,
+        "duration": 343
+      },
+      {
+        "time": 1076,
+        "name": "D4",
+        "velocity": 54,
+        "duration": 135
+      },
+      {
+        "time": 1228,
+        "name": "Bb4",
+        "velocity": 62,
+        "duration": 119
+      },
+      {
+        "time": 1364,
+        "name": "Bb4",
+        "velocity": 61,
+        "duration": 105
+      },
+      {
+        "time": 1486,
+        "name": "Bb4",
+        "velocity": 58,
+        "duration": 264
+      },
+      {
+        "time": 1873,
+        "name": "C4",
+        "velocity": 54,
+        "duration": 136
+      },
+      {
+        "time": 2025,
+        "name": "Bb4",
+        "velocity": 75,
+        "duration": 373
+      },
+      {
+        "time": 2654,
+        "name": "C4",
+        "velocity": 54,
+        "duration": 141
+      },
+      {
+        "time": 2812,
+        "name": "Bb4",
+        "velocity": 62,
+        "duration": 113
+      },
+      {
+        "time": 2941,
+        "name": "Bb4",
+        "velocity": 61,
+        "duration": 107
+      },
+      {
+        "time": 3065,
+        "name": "Bb4",
+        "velocity": 58,
+        "duration": 267
+      },
+      {
+        "time": 3450,
+        "name": "Db4",
+        "velocity": 54,
+        "duration": 139
+      },
+      {
+        "time": 3606,
+        "name": "Bb4",
+        "velocity": 75,
+        "duration": 372
+      },
+      {
+        "time": 4236,
+        "name": "Db4",
+        "velocity": 54,
+        "duration": 133
+      },
+      {
+        "time": 4386,
+        "name": "Bb4",
+        "velocity": 62,
+        "duration": 116
+      },
+      {
+        "time": 4519,
+        "name": "Bb4",
+        "velocity": 61,
+        "duration": 111
+      },
+      {
+        "time": 4647,
+        "name": "Bb4",
+        "velocity": 61,
+        "duration": 114
+      },
+      {
+        "time": 4767,
+        "name": "Db4",
+        "velocity": 67,
+        "duration": 198
+      },
+      {
+        "time": 4970,
+        "name": "A3",
+        "velocity": 54,
+        "duration": 96
+      },
+      {
+        "time": 5072,
+        "name": "A3",
+        "velocity": 54,
+        "duration": 95
+      },
+      {
+        "time": 5184,
+        "name": "F4",
+        "velocity": 72,
+        "duration": 180
+      },
+      {
+        "time": 5370,
+        "name": "A3",
+        "velocity": 54,
+        "duration": 88
+      },
+      {
+        "time": 5464,
+        "name": "A3",
+        "velocity": 54,
+        "duration": 95
+      },
+      {
+        "time": 5576,
+        "name": "F4",
+        "velocity": 73,
+        "duration": 181
+      },
+      {
+        "time": 5762,
+        "name": "A3",
+        "velocity": 54,
+        "duration": 88
+      },
+      {
+        "time": 5855,
+        "name": "A3",
+        "velocity": 54,
+        "duration": 93
+      },
+      {
+        "time": 5966,
+        "name": "F4",
+        "velocity": 62,
+        "duration": 173
+      },
+      {
+        "time": 6156,
+        "name": "F4",
+        "velocity": 61,
+        "duration": 178
+      },
+      {
+        "time": 6340,
+        "name": "Bb4",
+        "velocity": 73,
+        "duration": 404
+      },
+      {
+        "time": 6761,
+        "name": "D4",
+        "velocity": 70,
+        "duration": 121
+      },
+      {
+        "time": 6887,
+        "name": "D4",
+        "velocity": 69,
+        "duration": 108
+      },
+      {
+        "time": 7000,
+        "name": "C4",
+        "velocity": 69,
+        "duration": 129
+      },
+      {
+        "time": 7135,
+        "name": "D4",
+        "velocity": 72,
+        "duration": 395
+      },
+      {
+        "time": 7547,
+        "name": "D4",
+        "velocity": 70,
+        "duration": 77
+      },
+      {
+        "time": 7630,
+        "name": "C5",
+        "velocity": 69,
+        "duration": 87
+      },
+      {
+        "time": 7723,
+        "name": "D5",
+        "velocity": 69,
+        "duration": 89
+      },
+      {
+        "time": 7817,
+        "name": "Eb5",
+        "velocity": 69,
+        "duration": 95
+      },
+      {
+        "time": 7929,
+        "name": "Ab4",
+        "velocity": 73,
+        "duration": 397
+      },
+      {
+        "time": 8331,
+        "name": "Bb4",
+        "velocity": 70,
+        "duration": 378
+      },
+      {
+        "time": 8715,
+        "name": "F5",
+        "velocity": 72,
+        "duration": 390
+      },
+      {
+        "time": 9122,
+        "name": "Ab4",
+        "velocity": 70,
+        "duration": 107
+      },
+      {
+        "time": 9235,
+        "name": "Gb5",
+        "velocity": 69,
+        "duration": 125
+      },
+      {
+        "time": 9366,
+        "name": "Ab5",
+        "velocity": 69,
+        "duration": 127
+      },
+      {
+        "time": 9518,
+        "name": "Db5",
+        "velocity": 73,
+        "duration": 387
+      },
+      {
+        "time": 9910,
+        "name": "Gb4",
+        "velocity": 70,
+        "duration": 379
+      },
+      {
+        "time": 10295,
+        "name": "Db5",
+        "velocity": 62,
+        "duration": 392
+      },
+      {
+        "time": 10702,
+        "name": "Db5",
+        "velocity": 70,
+        "duration": 107
+      },
+      {
+        "time": 10816,
+        "name": "Ab5",
+        "velocity": 69,
+        "duration": 122
+      },
+      {
+        "time": 10944,
+        "name": "Gb5",
+        "velocity": 69,
+        "duration": 126
+      },
+      {
+        "time": 11087,
+        "name": "Db5",
+        "velocity": 73,
+        "duration": 132
+      },
+      {
+        "time": 11343,
+        "name": "Gb5",
+        "velocity": 69,
+        "duration": 134
+      },
+      {
+        "time": 11494,
+        "name": "Ab4",
+        "velocity": 70,
+        "duration": 118
+      },
+      {
+        "time": 11618,
+        "name": "Ab4",
+        "velocity": 69,
+        "duration": 115
+      },
+      {
+        "time": 11738,
+        "name": "Gb4",
+        "velocity": 69,
+        "duration": 129
+      },
+      {
+        "time": 11872,
+        "name": "Ab4",
+        "velocity": 72,
+        "duration": 392
+      },
+      {
+        "time": 12281,
+        "name": "Ab4",
+        "velocity": 70,
+        "duration": 368
+      },
+      {
+        "time": 12666,
+        "name": "Gb4",
+        "velocity": 73,
+        "duration": 200
+      },
+      {
+        "time": 12872,
+        "name": "Eb5",
+        "velocity": 69,
+        "duration": 86
+      },
+      {
+        "time": 12963,
+        "name": "F5",
+        "velocity": 69,
+        "duration": 95
+      },
+      {
+        "time": 13075,
+        "name": "Gb4",
+        "velocity": 70,
+        "duration": 373
+      },
+      {
+        "time": 13454,
+        "name": "Bb4",
+        "velocity": 72,
+        "duration": 390
+      },
+      {
+        "time": 13863,
+        "name": "Ab4",
+        "velocity": 70,
+        "duration": 164
+      },
+      {
+        "time": 14033,
+        "name": "Eb5",
+        "velocity": 69,
+        "duration": 188
+      },
+      {
+        "time": 14239,
+        "name": "F4",
+        "velocity": 73,
+        "duration": 208
+      },
+      {
+        "time": 14453,
+        "name": "Db5",
+        "velocity": 69,
+        "duration": 84
+      },
+      {
+        "time": 14543,
+        "name": "Eb5",
+        "velocity": 69,
+        "duration": 95
+      },
+      {
+        "time": 14655,
+        "name": "F4",
+        "velocity": 70,
+        "duration": 368
+      },
+      {
+        "time": 15029,
+        "name": "Ab4",
+        "velocity": 72,
+        "duration": 396
+      },
+      {
+        "time": 15442,
+        "name": "Gb4",
+        "velocity": 70,
+        "duration": 165
+      },
+      {
+        "time": 15613,
+        "name": "Db5",
+        "velocity": 69,
+        "duration": 190
+      },
+      {
+        "time": 15820,
+        "name": "E4",
+        "velocity": 73,
+        "duration": 394
+      },
+      {
+        "time": 16231,
+        "name": "E4",
+        "velocity": 70,
+        "duration": 373
+      },
+      {
+        "time": 16609,
+        "name": "G4",
+        "velocity": 72,
+        "duration": 390
+      },
+      {
+        "time": 17016,
+        "name": "Bb4",
+        "velocity": 70,
+        "duration": 386
+      },
+      {
+        "time": 17419,
+        "name": "F5",
+        "velocity": 78,
+        "duration": 199
+      },
+      {
+        "time": 17624,
+        "name": "A3",
+        "velocity": 54,
+        "duration": 96
+      },
+      {
+        "time": 17725,
+        "name": "A3",
+        "velocity": 54,
+        "duration": 93
+      },
+      {
+        "time": 17834,
+        "name": "F4",
+        "velocity": 72,
+        "duration": 183
+      },
+      {
+        "time": 18023,
+        "name": "A3",
+        "velocity": 54,
+        "duration": 87
+      },
+      {
+        "time": 18116,
+        "name": "A3",
+        "velocity": 54,
+        "duration": 96
+      },
+      {
+        "time": 18229,
+        "name": "F4",
+        "velocity": 73,
+        "duration": 180
+      },
+      {
+        "time": 18414,
+        "name": "A3",
+        "velocity": 54,
+        "duration": 92
+      },
+      {
+        "time": 18511,
+        "name": "A3",
+        "velocity": 54,
+        "duration": 93
+      },
+      {
+        "time": 18619,
+        "name": "F4",
+        "velocity": 62,
+        "duration": 171
+      },
+      {
+        "time": 18810,
+        "name": "F4",
+        "velocity": 61,
+        "duration": 175
+      },
+      {
+        "time": 18991,
+        "name": "Bb4",
+        "velocity": 73,
+        "duration": 408
+      },
+      {
+        "time": 19417,
+        "name": "D4",
+        "velocity": 70,
+        "duration": 114
+      },
+      {
+        "time": 19536,
+        "name": "D4",
+        "velocity": 69,
+        "duration": 113
+      },
+      {
+        "time": 19654,
+        "name": "C4",
+        "velocity": 69,
+        "duration": 131
+      },
+      {
+        "time": 19791,
+        "name": "D4",
+        "velocity": 72,
+        "duration": 393
+      },
+      {
+        "time": 20200,
+        "name": "D4",
+        "velocity": 70,
+        "duration": 71
+      },
+      {
+        "time": 20277,
+        "name": "C5",
+        "velocity": 69,
+        "duration": 92
+      },
+      {
+        "time": 20374,
+        "name": "D5",
+        "velocity": 69,
+        "duration": 94
+      },
+      {
+        "time": 20474,
+        "name": "Eb5",
+        "velocity": 69,
+        "duration": 91
+      },
+      {
+        "time": 20582,
+        "name": "Ab4",
+        "velocity": 73,
+        "duration": 393
+      },
+      {
+        "time": 20981,
+        "name": "Bb4",
+        "velocity": 70,
+        "duration": 382
+      },
+      {
+        "time": 21369,
+        "name": "F5",
+        "velocity": 72,
+        "duration": 391
+      },
+      {
+        "time": 21777,
+        "name": "Ab4",
+        "velocity": 70,
+        "duration": 106
+      },
+      {
+        "time": 21889,
+        "name": "Gb5",
+        "velocity": 69,
+        "duration": 123
+      },
+      {
+        "time": 22018,
+        "name": "Ab5",
+        "velocity": 69,
+        "duration": 130
+      },
+      {
+        "time": 22164,
+        "name": "Bb5",
+        "velocity": 74,
+        "duration": 1178
+      },
+      {
+        "time": 23359,
+        "name": "Db6",
+        "velocity": 74,
+        "duration": 373
+      },
+      {
+        "time": 23738,
+        "name": "Eb5",
+        "velocity": 59,
+        "duration": 224
+      },
+      {
+        "time": 24143,
+        "name": "A5",
+        "velocity": 75,
+        "duration": 776
+      },
+      {
+        "time": 24937,
+        "name": "F5",
+        "velocity": 75,
+        "duration": 369
+      },
+      {
+        "time": 25323,
+        "name": "Gb5",
+        "velocity": 78,
+        "duration": 777
+      },
+      {
+        "time": 26501,
+        "name": "Bb5",
+        "velocity": 74,
+        "duration": 398
+      },
+      {
+        "time": 26905,
+        "name": "C5",
+        "velocity": 59,
+        "duration": 172
+      },
+      {
+        "time": 27311,
+        "name": "F5",
+        "velocity": 75,
+        "duration": 778
+      },
+      {
+        "time": 28105,
+        "name": "F5",
+        "velocity": 75,
+        "duration": 373
+      },
+      {
+        "time": 28496,
+        "name": "Gb5",
+        "velocity": 78,
+        "duration": 784
+      },
+      {
+        "time": 29682,
+        "name": "Bb5",
+        "velocity": 74,
+        "duration": 395
+      },
+      {
+        "time": 30082,
+        "name": "C5",
+        "velocity": 59,
+        "duration": 173
+      },
+      {
+        "time": 30491,
+        "name": "F5",
+        "velocity": 75,
+        "duration": 777
+      },
+      {
+        "time": 31285,
+        "name": "D5",
+        "velocity": 75,
+        "duration": 372
+      },
+      {
+        "time": 31674,
+        "name": "Eb5",
+        "velocity": 78,
+        "duration": 781
+      },
+      {
+        "time": 32863,
+        "name": "Gb5",
+        "velocity": 75,
+        "duration": 381
+      },
+      {
+        "time": 33261,
+        "name": "F5",
+        "velocity": 78,
+        "duration": 393
+      },
+      {
+        "time": 33671,
+        "name": "Db5",
+        "velocity": 75,
+        "duration": 762
+      },
+      {
+        "time": 34449,
+        "name": "Bb4",
+        "velocity": 75,
+        "duration": 375
+      },
+      {
+        "time": 34842,
+        "name": "E4",
+        "velocity": 73,
+        "duration": 381
+      },
+      {
+        "time": 35239,
+        "name": "E4",
+        "velocity": 70,
+        "duration": 375
+      },
+      {
+        "time": 35620,
+        "name": "G4",
+        "velocity": 72,
+        "duration": 387
+      },
+      {
+        "time": 36024,
+        "name": "Bb4",
+        "velocity": 70,
+        "duration": 373
+      },
+      {
+        "time": 36415,
+        "name": "F5",
+        "velocity": 78,
+        "duration": 195
+      },
+      {
+        "time": 36616,
+        "name": "A3",
+        "velocity": 54,
+        "duration": 94
+      },
+      {
+        "time": 36716,
+        "name": "A3",
+        "velocity": 54,
+        "duration": 95
+      },
+      {
+        "time": 36828,
+        "name": "F4",
+        "velocity": 72,
+        "duration": 177
+      },
+      {
+        "time": 37010,
+        "name": "A3",
+        "velocity": 54,
+        "duration": 89
+      },
+      {
+        "time": 37104,
+        "name": "A3",
+        "velocity": 54,
+        "duration": 96
+      },
+      {
+        "time": 37217,
+        "name": "F4",
+        "velocity": 73,
+        "duration": 181
+      },
+      {
+        "time": 37404,
+        "name": "A3",
+        "velocity": 54,
+        "duration": 89
+      },
+      {
+        "time": 37498,
+        "name": "A3",
+        "velocity": 54,
+        "duration": 97
+      },
+      {
+        "time": 37611,
+        "name": "F4",
+        "velocity": 62,
+        "duration": 170
+      },
+      {
+        "time": 37797,
+        "name": "F4",
+        "velocity": 61,
+        "duration": 590
+      },
+      {
+        "time": 38405,
+        "name": "D4",
+        "velocity": 70,
+        "duration": 112
+      },
+      {
+        "time": 38522,
+        "name": "D4",
+        "velocity": 69,
+        "duration": 119
+      },
+      {
+        "time": 38647,
+        "name": "C4",
+        "velocity": 69,
+        "duration": 124
+      },
+      {
+        "time": 38777,
+        "name": "D4",
+        "velocity": 72,
+        "duration": 397
+      },
+      {
+        "time": 39192,
+        "name": "D4",
+        "velocity": 70,
+        "duration": 74
+      },
+      {
+        "time": 39272,
+        "name": "C5",
+        "velocity": 69,
+        "duration": 86
+      },
+      {
+        "time": 39364,
+        "name": "D5",
+        "velocity": 69,
+        "duration": 90
+      },
+      {
+        "time": 39460,
+        "name": "Eb5",
+        "velocity": 69,
+        "duration": 95
+      },
+      {
+        "time": 39572,
+        "name": "Ab4",
+        "velocity": 73,
+        "duration": 392
+      },
+      {
+        "time": 39970,
+        "name": "Bb4",
+        "velocity": 70,
+        "duration": 382
+      },
+      {
+        "time": 40358,
+        "name": "F5",
+        "velocity": 72,
+        "duration": 394
+      },
+      {
+        "time": 40769,
+        "name": "Ab4",
+        "velocity": 70,
+        "duration": 102
+      },
+      {
+        "time": 40877,
+        "name": "Gb5",
+        "velocity": 69,
+        "duration": 120
+      },
+      {
+        "time": 41003,
+        "name": "Ab5",
+        "velocity": 69,
+        "duration": 129
+      },
+      {
+        "time": 41149,
+        "name": "Db5",
+        "velocity": 73,
+        "duration": 399
+      },
+      {
+        "time": 41553,
+        "name": "Gb4",
+        "velocity": 70,
+        "duration": 381
+      },
+      {
+        "time": 41940,
+        "name": "Db5",
+        "velocity": 62,
+        "duration": 387
+      },
+      {
+        "time": 42344,
+        "name": "Db5",
+        "velocity": 70,
+        "duration": 105
+      },
+      {
+        "time": 42455,
+        "name": "Ab5",
+        "velocity": 69,
+        "duration": 122
+      },
+      {
+        "time": 42583,
+        "name": "Gb5",
+        "velocity": 69,
+        "duration": 125
+      },
+      {
+        "time": 42727,
+        "name": "Db5",
+        "velocity": 73,
+        "duration": 133
+      },
+      {
+        "time": 42986,
+        "name": "Gb5",
+        "velocity": 69,
+        "duration": 131
+      },
+      {
+        "time": 43135,
+        "name": "Ab4",
+        "velocity": 70,
+        "duration": 121
+      },
+      {
+        "time": 43261,
+        "name": "Ab4",
+        "velocity": 69,
+        "duration": 114
+      },
+      {
+        "time": 43381,
+        "name": "Gb4",
+        "velocity": 69,
+        "duration": 126
+      },
+      {
+        "time": 43512,
+        "name": "Ab4",
+        "velocity": 72,
+        "duration": 394
+      },
+      {
+        "time": 43923,
+        "name": "Ab4",
+        "velocity": 70,
+        "duration": 370
+      },
+      {
+        "time": 44309,
+        "name": "Gb4",
+        "velocity": 73,
+        "duration": 200
+      },
+      {
+        "time": 44514,
+        "name": "Eb5",
+        "velocity": 69,
+        "duration": 86
+      },
+      {
+        "time": 44606,
+        "name": "F5",
+        "velocity": 69,
+        "duration": 93
+      },
+      {
+        "time": 44716,
+        "name": "Gb4",
+        "velocity": 70,
+        "duration": 372
+      },
+      {
+        "time": 45093,
+        "name": "Bb4",
+        "velocity": 72,
+        "duration": 392
+      },
+      {
+        "time": 45502,
+        "name": "Ab4",
+        "velocity": 70,
+        "duration": 166
+      },
+      {
+        "time": 45673,
+        "name": "Eb5",
+        "velocity": 69,
+        "duration": 193
+      },
+      {
+        "time": 45883,
+        "name": "F4",
+        "velocity": 73,
+        "duration": 202
+      },
+      {
+        "time": 46091,
+        "name": "Db5",
+        "velocity": 69,
+        "duration": 85
+      },
+      {
+        "time": 46182,
+        "name": "Eb5",
+        "velocity": 69,
+        "duration": 97
+      },
+      {
+        "time": 46296,
+        "name": "F4",
+        "velocity": 70,
+        "duration": 377
+      },
+      {
+        "time": 46678,
+        "name": "Ab4",
+        "velocity": 72,
+        "duration": 389
+      },
+      {
+        "time": 47084,
+        "name": "Gb4",
+        "velocity": 70,
+        "duration": 162
+      },
+      {
+        "time": 47257,
+        "name": "Db5",
+        "velocity": 69,
+        "duration": 185
+      },
+      {
+        "time": 47458,
+        "name": "E4",
+        "velocity": 73,
+        "duration": 397
+      },
+      {
+        "time": 47874,
+        "name": "E4",
+        "velocity": 70,
+        "duration": 370
+      },
+      {
+        "time": 48249,
+        "name": "G4",
+        "velocity": 72,
+        "duration": 393
+      },
+      {
+        "time": 48659,
+        "name": "Bb4",
+        "velocity": 70,
+        "duration": 385
+      },
+      {
+        "time": 49061,
+        "name": "F5",
+        "velocity": 78,
+        "duration": 199
+      },
+      {
+        "time": 49265,
+        "name": "A3",
+        "velocity": 54,
+        "duration": 98
+      },
+      {
+        "time": 49369,
+        "name": "A3",
+        "velocity": 54,
+        "duration": 94
+      },
+      {
+        "time": 49480,
+        "name": "F4",
+        "velocity": 72,
+        "duration": 174
+      },
+      {
+        "time": 49660,
+        "name": "A3",
+        "velocity": 54,
+        "duration": 90
+      },
+      {
+        "time": 49756,
+        "name": "A3",
+        "velocity": 54,
+        "duration": 96
+      },
+      {
+        "time": 49869,
+        "name": "F4",
+        "velocity": 73,
+        "duration": 184
+      },
+      {
+        "time": 50058,
+        "name": "A3",
+        "velocity": 54,
+        "duration": 88
+      },
+      {
+        "time": 50151,
+        "name": "A3",
+        "velocity": 54,
+        "duration": 96
+      },
+      {
+        "time": 50265,
+        "name": "F4",
+        "velocity": 62,
+        "duration": 171
+      },
+      {
+        "time": 50453,
+        "name": "F4",
+        "velocity": 61,
+        "duration": 176
+      },
+      {
+        "time": 50634,
+        "name": "Bb4",
+        "velocity": 73,
+        "duration": 405
+      },
+      {
+        "time": 51055,
+        "name": "D4",
+        "velocity": 70,
+        "duration": 115
+      },
+      {
+        "time": 51176,
+        "name": "D4",
+        "velocity": 69,
+        "duration": 116
+      },
+      {
+        "time": 51298,
+        "name": "C4",
+        "velocity": 69,
+        "duration": 128
+      },
+      {
+        "time": 51431,
+        "name": "D4",
+        "velocity": 72,
+        "duration": 395
+      },
+      {
+        "time": 51843,
+        "name": "D4",
+        "velocity": 70,
+        "duration": 75
+      },
+      {
+        "time": 51924,
+        "name": "C5",
+        "velocity": 69,
+        "duration": 89
+      },
+      {
+        "time": 52023,
+        "name": "D5",
+        "velocity": 69,
+        "duration": 86
+      },
+      {
+        "time": 52116,
+        "name": "Eb5",
+        "velocity": 69,
+        "duration": 95
+      },
+      {
+        "time": 52229,
+        "name": "Ab4",
+        "velocity": 73,
+        "duration": 392
+      },
+      {
+        "time": 52626,
+        "name": "Bb4",
+        "velocity": 70,
+        "duration": 380
+      },
+      {
+        "time": 53012,
+        "name": "F5",
+        "velocity": 72,
+        "duration": 392
+      },
+      {
+        "time": 53421,
+        "name": "Ab4",
+        "velocity": 70,
+        "duration": 107
+      },
+      {
+        "time": 53534,
+        "name": "Gb5",
+        "velocity": 69,
+        "duration": 120
+      },
+      {
+        "time": 53659,
+        "name": "Ab5",
+        "velocity": 69,
+        "duration": 126
+      },
+      {
+        "time": 53802,
+        "name": "Bb5",
+        "velocity": 74,
+        "duration": 1179
+      },
+      {
+        "time": 54998,
+        "name": "Db6",
+        "velocity": 74,
+        "duration": 372
+      },
+      {
+        "time": 55376,
+        "name": "Eb5",
+        "velocity": 59,
+        "duration": 226
+      },
+      {
+        "time": 55782,
+        "name": "A5",
+        "velocity": 75,
+        "duration": 778
+      },
+      {
+        "time": 56577,
+        "name": "F5",
+        "velocity": 75,
+        "duration": 375
+      },
+      {
+        "time": 56970,
+        "name": "Gb5",
+        "velocity": 78,
+        "duration": 771
+      },
+      {
+        "time": 58142,
+        "name": "Bb5",
+        "velocity": 74,
+        "duration": 401
+      },
+      {
+        "time": 58549,
+        "name": "C5",
+        "velocity": 59,
+        "duration": 172
+      },
+      {
+        "time": 58957,
+        "name": "F5",
+        "velocity": 75,
+        "duration": 775
+      },
+      {
+        "time": 59748,
+        "name": "F5",
+        "velocity": 75,
+        "duration": 377
+      },
+      {
+        "time": 60142,
+        "name": "Gb5",
+        "velocity": 78,
+        "duration": 783
+      },
+      {
+        "time": 61322,
+        "name": "Bb5",
+        "velocity": 74,
+        "duration": 399
+      },
+      {
+        "time": 61726,
+        "name": "C5",
+        "velocity": 59,
+        "duration": 174
+      },
+      {
+        "time": 62138,
+        "name": "F5",
+        "velocity": 75,
+        "duration": 773
+      },
+      {
+        "time": 62928,
+        "name": "D5",
+        "velocity": 75,
+        "duration": 371
+      },
+      {
+        "time": 63316,
+        "name": "Eb5",
+        "velocity": 78,
+        "duration": 783
+      },
+      {
+        "time": 64501,
+        "name": "Gb5",
+        "velocity": 75,
+        "duration": 384
+      },
+      {
+        "time": 64903,
+        "name": "F5",
+        "velocity": 78,
+        "duration": 393
+      },
+      {
+        "time": 65313,
+        "name": "Db5",
+        "velocity": 75,
+        "duration": 764
+      },
+      {
+        "time": 66094,
+        "name": "Bb4",
+        "velocity": 75,
+        "duration": 371
+      },
+      {
+        "time": 66484,
+        "name": "E4",
+        "velocity": 73,
+        "duration": 389
+      },
+      {
+        "time": 66889,
+        "name": "E4",
+        "velocity": 70,
+        "duration": 366
+      },
+      {
+        "time": 67261,
+        "name": "G4",
+        "velocity": 72,
+        "duration": 387
+      },
+      {
+        "time": 67664,
+        "name": "Bb4",
+        "velocity": 70,
+        "duration": 376
+      },
+      {
+        "time": 68057,
+        "name": "F5",
+        "velocity": 78,
+        "duration": 194
+      },
+      {
+        "time": 68256,
+        "name": "A3",
+        "velocity": 54,
+        "duration": 94
+      },
+      {
+        "time": 68355,
+        "name": "A3",
+        "velocity": 54,
+        "duration": 95
+      },
+      {
+        "time": 68466,
+        "name": "F4",
+        "velocity": 72,
+        "duration": 178
+      },
+      {
+        "time": 68650,
+        "name": "A3",
+        "velocity": 54,
+        "duration": 93
+      },
+      {
+        "time": 68749,
+        "name": "A3",
+        "velocity": 54,
+        "duration": 91
+      },
+      {
+        "time": 68858,
+        "name": "F4",
+        "velocity": 73,
+        "duration": 181
+      },
+      {
+        "time": 69045,
+        "name": "A3",
+        "velocity": 54,
+        "duration": 90
+      },
+      {
+        "time": 69141,
+        "name": "A3",
+        "velocity": 54,
+        "duration": 95
+      },
+      {
+        "time": 69253,
+        "name": "F4",
+        "velocity": 62,
+        "duration": 170
+      },
+      {
+        "time": 69440,
+        "name": "F4",
+        "velocity": 61,
+        "duration": 589
+      },
+      {
+        "time": 70046,
+        "name": "D4",
+        "velocity": 70,
+        "duration": 113
+      },
+      {
+        "time": 70165,
+        "name": "D4",
+        "velocity": 69,
+        "duration": 112
+      },
+      {
+        "time": 70283,
+        "name": "C4",
+        "velocity": 69,
+        "duration": 135
+      },
+      {
+        "time": 70424,
+        "name": "D4",
+        "velocity": 72,
+        "duration": 392
+      },
+      {
+        "time": 70833,
+        "name": "D4",
+        "velocity": 70,
+        "duration": 74
+      },
+      {
+        "time": 70913,
+        "name": "C5",
+        "velocity": 69,
+        "duration": 91
+      },
+      {
+        "time": 71010,
+        "name": "D5",
+        "velocity": 69,
+        "duration": 90
+      },
+      {
+        "time": 71105,
+        "name": "Eb5",
+        "velocity": 69,
+        "duration": 92
+      },
+      {
+        "time": 71214,
+        "name": "Ab4",
+        "velocity": 73,
+        "duration": 394
+      },
+      {
+        "time": 71614,
+        "name": "Bb4",
+        "velocity": 70,
+        "duration": 380
+      },
+      {
+        "time": 72000,
+        "name": "F5",
+        "velocity": 72,
+        "duration": 393
+      },
+      {
+        "time": 72410,
+        "name": "Ab4",
+        "velocity": 70,
+        "duration": 103
+      },
+      {
+        "time": 72519,
+        "name": "Gb5",
+        "velocity": 69,
+        "duration": 126
+      },
+      {
+        "time": 72651,
+        "name": "Ab5",
+        "velocity": 69,
+        "duration": 124
+      },
+      {
+        "time": 72792,
+        "name": "Db5",
+        "velocity": 73,
+        "duration": 396
+      },
+      {
+        "time": 73193,
+        "name": "Gb4",
+        "velocity": 70,
+        "duration": 381
+      },
+      {
+        "time": 73580,
+        "name": "Db5",
+        "velocity": 62,
+        "duration": 391
+      },
+      {
+        "time": 73988,
+        "name": "Db5",
+        "velocity": 70,
+        "duration": 105
+      },
+      {
+        "time": 74099,
+        "name": "Ab5",
+        "velocity": 69,
+        "duration": 120
+      },
+      {
+        "time": 74225,
+        "name": "Gb5",
+        "velocity": 69,
+        "duration": 130
+      },
+      {
+        "time": 74372,
+        "name": "Db5",
+        "velocity": 73,
+        "duration": 130
+      },
+      {
+        "time": 74630,
+        "name": "Gb5",
+        "velocity": 69,
+        "duration": 136
+      },
+      {
+        "time": 74783,
+        "name": "Ab4",
+        "velocity": 70,
+        "duration": 113
+      },
+      {
+        "time": 74902,
+        "name": "Ab4",
+        "velocity": 69,
+        "duration": 118
+      },
+      {
+        "time": 75025,
+        "name": "Gb4",
+        "velocity": 69,
+        "duration": 124
+      },
+      {
+        "time": 75155,
+        "name": "Ab4",
+        "velocity": 72,
+        "duration": 392
+      },
+      {
+        "time": 75573,
+        "name": "Ab4",
+        "velocity": 70,
+        "duration": 362
+      },
+      {
+        "time": 75952,
+        "name": "Gb4",
+        "velocity": 73,
+        "duration": 199
+      },
+      {
+        "time": 76158,
+        "name": "Eb5",
+        "velocity": 69,
+        "duration": 84
+      },
+      {
+        "time": 76248,
+        "name": "F5",
+        "velocity": 69,
+        "duration": 95
+      },
+      {
+        "time": 76360,
+        "name": "Gb4",
+        "velocity": 70,
+        "duration": 369
+      },
+      {
+        "time": 76735,
+        "name": "Bb4",
+        "velocity": 72,
+        "duration": 395
+      },
+      {
+        "time": 77147,
+        "name": "Ab4",
+        "velocity": 70,
+        "duration": 165
+      },
+      {
+        "time": 77318,
+        "name": "Eb5",
+        "velocity": 69,
+        "duration": 191
+      },
+      {
+        "time": 77526,
+        "name": "F4",
+        "velocity": 73,
+        "duration": 205
+      },
+      {
+        "time": 77736,
+        "name": "Db5",
+        "velocity": 69,
+        "duration": 83
+      },
+      {
+        "time": 77824,
+        "name": "Eb5",
+        "velocity": 69,
+        "duration": 96
+      },
+      {
+        "time": 77937,
+        "name": "F4",
+        "velocity": 70,
+        "duration": 374
+      },
+      {
+        "time": 78316,
+        "name": "Ab4",
+        "velocity": 72,
+        "duration": 389
+      },
+      {
+        "time": 78722,
+        "name": "Gb4",
+        "velocity": 70,
+        "duration": 169
+      },
+      {
+        "time": 78897,
+        "name": "Db5",
+        "velocity": 69,
+        "duration": 188
+      },
+      {
+        "time": 79101,
+        "name": "E4",
+        "velocity": 73,
+        "duration": 399
+      },
+      {
+        "time": 79517,
+        "name": "E4",
+        "velocity": 70,
+        "duration": 369
+      },
+      {
+        "time": 79891,
+        "name": "G4",
+        "velocity": 72,
+        "duration": 395
+      },
+      {
+        "time": 80303,
+        "name": "Bb4",
+        "velocity": 70,
+        "duration": 386
+      },
+      {
+        "time": 80706,
+        "name": "F5",
+        "velocity": 78,
+        "duration": 196
+      },
+      {
+        "time": 80908,
+        "name": "A3",
+        "velocity": 54,
+        "duration": 96
+      },
+      {
+        "time": 81010,
+        "name": "A3",
+        "velocity": 54,
+        "duration": 94
+      },
+      {
+        "time": 81121,
+        "name": "F4",
+        "velocity": 72,
+        "duration": 180
+      },
+      {
+        "time": 81306,
+        "name": "A3",
+        "velocity": 54,
+        "duration": 89
+      },
+      {
+        "time": 81401,
+        "name": "A3",
+        "velocity": 54,
+        "duration": 96
+      },
+      {
+        "time": 81514,
+        "name": "F4",
+        "velocity": 73,
+        "duration": 180
+      },
+      {
+        "time": 81700,
+        "name": "A3",
+        "velocity": 54,
+        "duration": 84
+      },
+      {
+        "time": 81790,
+        "name": "A3",
+        "velocity": 54,
+        "duration": 96
+      },
+      {
+        "time": 81903,
+        "name": "F4",
+        "velocity": 62,
+        "duration": 175
+      },
+      {
+        "time": 82095,
+        "name": "F4",
+        "velocity": 61,
+        "duration": 174
+      },
+      {
+        "time": 82275,
+        "name": "Bb4",
+        "velocity": 73,
+        "duration": 408
+      },
+      {
+        "time": 82700,
+        "name": "D4",
+        "velocity": 70,
+        "duration": 113
+      },
+      {
+        "time": 82819,
+        "name": "D4",
+        "velocity": 69,
+        "duration": 117
+      },
+      {
+        "time": 82942,
+        "name": "C4",
+        "velocity": 69,
+        "duration": 124
+      },
+      {
+        "time": 83071,
+        "name": "D4",
+        "velocity": 72,
+        "duration": 396
+      },
+      {
+        "time": 83484,
+        "name": "D4",
+        "velocity": 70,
+        "duration": 73
+      },
+      {
+        "time": 83563,
+        "name": "C5",
+        "velocity": 69,
+        "duration": 90
+      },
+      {
+        "time": 83659,
+        "name": "D5",
+        "velocity": 69,
+        "duration": 90
+      },
+      {
+        "time": 83755,
+        "name": "Eb5",
+        "velocity": 69,
+        "duration": 94
+      },
+      {
+        "time": 83866,
+        "name": "Ab4",
+        "velocity": 73,
+        "duration": 393
+      },
+      {
+        "time": 84265,
+        "name": "Bb4",
+        "velocity": 70,
+        "duration": 379
+      },
+      {
+        "time": 84650,
+        "name": "F5",
+        "velocity": 72,
+        "duration": 395
+      },
+      {
+        "time": 85062,
+        "name": "Ab4",
+        "velocity": 70,
+        "duration": 108
+      },
+      {
+        "time": 85176,
+        "name": "Gb5",
+        "velocity": 69,
+        "duration": 118
+      },
+      {
+        "time": 85299,
+        "name": "Ab5",
+        "velocity": 69,
+        "duration": 129
+      },
+      {
+        "time": 85445,
+        "name": "Bb5",
+        "velocity": 74,
+        "duration": 1179
+      },
+      {
+        "time": 86641,
+        "name": "Db6",
+        "velocity": 74,
+        "duration": 373
+      },
+      {
+        "time": 87019,
+        "name": "Eb5",
+        "velocity": 59,
+        "duration": 225
+      },
+      {
+        "time": 87423,
+        "name": "A5",
+        "velocity": 75,
+        "duration": 780
+      },
+      {
+        "time": 88220,
+        "name": "F5",
+        "velocity": 75,
+        "duration": 371
+      },
+      {
+        "time": 88611,
+        "name": "Gb5",
+        "velocity": 78,
+        "duration": 770
+      },
+      {
+        "time": 89785,
+        "name": "Bb5",
+        "velocity": 74,
+        "duration": 400
+      },
+      {
+        "time": 90190,
+        "name": "C5",
+        "velocity": 59,
+        "duration": 172
+      },
+      {
+        "time": 90597,
+        "name": "F5",
+        "velocity": 75,
+        "duration": 780
+      },
+      {
+        "time": 91394,
+        "name": "F5",
+        "velocity": 75,
+        "duration": 368
+      },
+      {
+        "time": 91779,
+        "name": "Gb5",
+        "velocity": 78,
+        "duration": 786
+      },
+      {
+        "time": 92964,
+        "name": "Bb5",
+        "velocity": 74,
+        "duration": 396
+      },
+      {
+        "time": 93366,
+        "name": "C5",
+        "velocity": 59,
+        "duration": 175
+      },
+      {
+        "time": 93777,
+        "name": "F5",
+        "velocity": 75,
+        "duration": 779
+      },
+      {
+        "time": 94574,
+        "name": "D5",
+        "velocity": 75,
+        "duration": 370
+      },
+      {
+        "time": 94962,
+        "name": "Eb5",
+        "velocity": 78,
+        "duration": 777
+      },
+      {
+        "time": 96145,
+        "name": "Gb5",
+        "velocity": 75,
+        "duration": 384
+      },
+      {
+        "time": 96546,
+        "name": "F5",
+        "velocity": 78,
+        "duration": 390
+      },
+      {
+        "time": 96953,
+        "name": "Db5",
+        "velocity": 75,
+        "duration": 765
+      },
+      {
+        "time": 97734,
+        "name": "Bb4",
+        "velocity": 75,
+        "duration": 375
+      },
+      {
+        "time": 98126,
+        "name": "E4",
+        "velocity": 73,
+        "duration": 384
+      },
+      {
+        "time": 98526,
+        "name": "E4",
+        "velocity": 70,
+        "duration": 369
+      },
+      {
+        "time": 98901,
+        "name": "G4",
+        "velocity": 72,
+        "duration": 388
+      },
+      {
+        "time": 99308,
+        "name": "Bb4",
+        "velocity": 70,
+        "duration": 373
+      },
+      {
+        "time": 99698,
+        "name": "F5",
+        "velocity": 78,
+        "duration": 193
+      },
+      {
+        "time": 99897,
+        "name": "A3",
+        "velocity": 54,
+        "duration": 93
+      },
+      {
+        "time": 99996,
+        "name": "A3",
+        "velocity": 54,
+        "duration": 98
+      },
+      {
+        "time": 100112,
+        "name": "F4",
+        "velocity": 72,
+        "duration": 173
+      },
+      {
+        "time": 100290,
+        "name": "A3",
+        "velocity": 54,
+        "duration": 92
+      },
+      {
+        "time": 100388,
+        "name": "A3",
+        "velocity": 54,
+        "duration": 97
+      },
+      {
+        "time": 100502,
+        "name": "F4",
+        "velocity": 73,
+        "duration": 178
+      },
+      {
+        "time": 100686,
+        "name": "A3",
+        "velocity": 54,
+        "duration": 92
+      },
+      {
+        "time": 100784,
+        "name": "A3",
+        "velocity": 54,
+        "duration": 91
+      },
+      {
+        "time": 100893,
+        "name": "F4",
+        "velocity": 62,
+        "duration": 169
+      }
+    ]
+  },
+  {
+    "instrumentName": "Electric Bass (finger)",
+    "notes": [
+      {
+        "time": 95,
+        "name": "Bb2",
+        "velocity": 73,
+        "duration": 332
+      },
+      {
+        "time": 1082,
+        "name": "Bb4",
+        "velocity": 61,
+        "duration": 124
+      },
+      {
+        "time": 1234,
+        "name": "Bb2",
+        "velocity": 61,
+        "duration": 107
+      },
+      {
+        "time": 1369,
+        "name": "Bb2",
+        "velocity": 60,
+        "duration": 94
+      },
+      {
+        "time": 1491,
+        "name": "Bb2",
+        "velocity": 60,
+        "duration": 105
+      },
+      {
+        "time": 1602,
+        "name": "C4",
+        "velocity": 57,
+        "duration": 142
+      },
+      {
+        "time": 1879,
+        "name": "Ab4",
+        "velocity": 65,
+        "duration": 124
+      },
+      {
+        "time": 2031,
+        "name": "Ab2",
+        "velocity": 61,
+        "duration": 102
+      },
+      {
+        "time": 2139,
+        "name": "Ab2",
+        "velocity": 60,
+        "duration": 124
+      },
+      {
+        "time": 2268,
+        "name": "Ab2",
+        "velocity": 60,
+        "duration": 125
+      },
+      {
+        "time": 2660,
+        "name": "Bb4",
+        "velocity": 61,
+        "duration": 130
+      },
+      {
+        "time": 2818,
+        "name": "Ab2",
+        "velocity": 61,
+        "duration": 102
+      },
+      {
+        "time": 2947,
+        "name": "Ab2",
+        "velocity": 60,
+        "duration": 95
+      },
+      {
+        "time": 3071,
+        "name": "Ab2",
+        "velocity": 60,
+        "duration": 107
+      },
+      {
+        "time": 3184,
+        "name": "Db4",
+        "velocity": 57,
+        "duration": 136
+      },
+      {
+        "time": 3455,
+        "name": "Ab4",
+        "velocity": 65,
+        "duration": 129
+      },
+      {
+        "time": 3611,
+        "name": "Gb2",
+        "velocity": 61,
+        "duration": 102
+      },
+      {
+        "time": 3718,
+        "name": "Gb2",
+        "velocity": 60,
+        "duration": 124
+      },
+      {
+        "time": 3847,
+        "name": "Gb2",
+        "velocity": 60,
+        "duration": 125
+      },
+      {
+        "time": 4242,
+        "name": "Bb4",
+        "velocity": 61,
+        "duration": 122
+      },
+      {
+        "time": 4391,
+        "name": "Gb2",
+        "velocity": 61,
+        "duration": 106
+      },
+      {
+        "time": 4525,
+        "name": "Gb2",
+        "velocity": 60,
+        "duration": 100
+      },
+      {
+        "time": 4653,
+        "name": "Gb2",
+        "velocity": 60,
+        "duration": 103
+      },
+      {
+        "time": 4773,
+        "name": "Bb4",
+        "velocity": 78,
+        "duration": 180
+      },
+      {
+        "time": 4976,
+        "name": "F4",
+        "velocity": 65,
+        "duration": 85
+      },
+      {
+        "time": 5077,
+        "name": "F4",
+        "velocity": 61,
+        "duration": 84
+      },
+      {
+        "time": 5190,
+        "name": "F2",
+        "velocity": 70,
+        "duration": 168
+      },
+      {
+        "time": 5376,
+        "name": "F4",
+        "velocity": 61,
+        "duration": 77
+      },
+      {
+        "time": 5470,
+        "name": "F4",
+        "velocity": 61,
+        "duration": 83
+      },
+      {
+        "time": 5582,
+        "name": "F2",
+        "velocity": 72,
+        "duration": 169
+      },
+      {
+        "time": 5767,
+        "name": "F4",
+        "velocity": 61,
+        "duration": 78
+      },
+      {
+        "time": 5861,
+        "name": "F4",
+        "velocity": 61,
+        "duration": 81
+      },
+      {
+        "time": 5972,
+        "name": "G2",
+        "velocity": 70,
+        "duration": 156
+      },
+      {
+        "time": 6162,
+        "name": "A2",
+        "velocity": 69,
+        "duration": 161
+      },
+      {
+        "time": 6345,
+        "name": "D4",
+        "velocity": 73,
+        "duration": 393
+      },
+      {
+        "time": 6766,
+        "name": "Bb2",
+        "velocity": 70,
+        "duration": 110
+      },
+      {
+        "time": 6893,
+        "name": "Bb2",
+        "velocity": 69,
+        "duration": 96
+      },
+      {
+        "time": 7005,
+        "name": "Ab2",
+        "velocity": 69,
+        "duration": 119
+      },
+      {
+        "time": 7141,
+        "name": "Bb2",
+        "velocity": 72,
+        "duration": 282
+      },
+      {
+        "time": 7428,
+        "name": "Bb4",
+        "velocity": 69,
+        "duration": 96
+      },
+      {
+        "time": 7552,
+        "name": "Bb2",
+        "velocity": 70,
+        "duration": 67
+      },
+      {
+        "time": 7636,
+        "name": "Eb4",
+        "velocity": 69,
+        "duration": 76
+      },
+      {
+        "time": 7728,
+        "name": "F4",
+        "velocity": 69,
+        "duration": 78
+      },
+      {
+        "time": 7823,
+        "name": "G4",
+        "velocity": 69,
+        "duration": 83
+      },
+      {
+        "time": 7934,
+        "name": "Ab2",
+        "velocity": 73,
+        "duration": 288
+      },
+      {
+        "time": 8227,
+        "name": "Bb4",
+        "velocity": 69,
+        "duration": 93
+      },
+      {
+        "time": 8336,
+        "name": "Ab2",
+        "velocity": 70,
+        "duration": 76
+      },
+      {
+        "time": 8417,
+        "name": "C5",
+        "velocity": 69,
+        "duration": 34
+      },
+      {
+        "time": 8457,
+        "name": "Ab2",
+        "velocity": 69,
+        "duration": 52
+      },
+      {
+        "time": 8514,
+        "name": "D5",
+        "velocity": 69,
+        "duration": 57
+      },
+      {
+        "time": 8576,
+        "name": "Gb2",
+        "velocity": 69,
+        "duration": 28
+      },
+      {
+        "time": 8609,
+        "name": "Eb5",
+        "velocity": 69,
+        "duration": 95
+      },
+      {
+        "time": 8721,
+        "name": "Ab2",
+        "velocity": 72,
+        "duration": 184
+      },
+      {
+        "time": 8910,
+        "name": "F5",
+        "velocity": 60,
+        "duration": 189
+      },
+      {
+        "time": 9128,
+        "name": "Ab2",
+        "velocity": 70,
+        "duration": 96
+      },
+      {
+        "time": 9241,
+        "name": "Bb4",
+        "velocity": 69,
+        "duration": 113
+      },
+      {
+        "time": 9372,
+        "name": "C5",
+        "velocity": 69,
+        "duration": 115
+      },
+      {
+        "time": 9523,
+        "name": "Gb2",
+        "velocity": 73,
+        "duration": 276
+      },
+      {
+        "time": 9804,
+        "name": "Gb4",
+        "velocity": 69,
+        "duration": 95
+      },
+      {
+        "time": 9916,
+        "name": "Gb2",
+        "velocity": 70,
+        "duration": 73
+      },
+      {
+        "time": 9995,
+        "name": "Ab4",
+        "velocity": 69,
+        "duration": 35
+      },
+      {
+        "time": 10035,
+        "name": "Gb2",
+        "velocity": 69,
+        "duration": 51
+      },
+      {
+        "time": 10092,
+        "name": "Bb4",
+        "velocity": 69,
+        "duration": 57
+      },
+      {
+        "time": 10154,
+        "name": "E2",
+        "velocity": 69,
+        "duration": 28
+      },
+      {
+        "time": 10188,
+        "name": "C5",
+        "velocity": 69,
+        "duration": 95
+      },
+      {
+        "time": 10301,
+        "name": "Gb2",
+        "velocity": 72,
+        "duration": 122
+      },
+      {
+        "time": 10429,
+        "name": "Bb5",
+        "velocity": 69,
+        "duration": 55
+      },
+      {
+        "time": 10490,
+        "name": "Db5",
+        "velocity": 60,
+        "duration": 58
+      },
+      {
+        "time": 10553,
+        "name": "Bb5",
+        "velocity": 69,
+        "duration": 128
+      },
+      {
+        "time": 10707,
+        "name": "Gb2",
+        "velocity": 70,
+        "duration": 97
+      },
+      {
+        "time": 10822,
+        "name": "C5",
+        "velocity": 69,
+        "duration": 110
+      },
+      {
+        "time": 10950,
+        "name": "Bb4",
+        "velocity": 69,
+        "duration": 115
+      },
+      {
+        "time": 11093,
+        "name": "Db3",
+        "velocity": 73,
+        "duration": 119
+      },
+      {
+        "time": 11348,
+        "name": "Ab4",
+        "velocity": 69,
+        "duration": 124
+      },
+      {
+        "time": 11500,
+        "name": "Db3",
+        "velocity": 70,
+        "duration": 107
+      },
+      {
+        "time": 11624,
+        "name": "Db3",
+        "velocity": 69,
+        "duration": 102
+      },
+      {
+        "time": 11743,
+        "name": "B2",
+        "velocity": 69,
+        "duration": 118
+      },
+      {
+        "time": 11878,
+        "name": "Db3",
+        "velocity": 72,
+        "duration": 249
+      },
+      {
+        "time": 12133,
+        "name": "Ab4",
+        "velocity": 69,
+        "duration": 125
+      },
+      {
+        "time": 12287,
+        "name": "Db3",
+        "velocity": 70,
+        "duration": 97
+      },
+      {
+        "time": 12389,
+        "name": "Gb4",
+        "velocity": 69,
+        "duration": 121
+      },
+      {
+        "time": 12521,
+        "name": "Ab4",
+        "velocity": 69,
+        "duration": 123
+      },
+      {
+        "time": 12671,
+        "name": "B2",
+        "velocity": 73,
+        "duration": 189
+      },
+      {
+        "time": 12878,
+        "name": "Gb4",
+        "velocity": 69,
+        "duration": 75
+      },
+      {
+        "time": 12969,
+        "name": "F4",
+        "velocity": 69,
+        "duration": 83
+      },
+      {
+        "time": 13081,
+        "name": "B2",
+        "velocity": 70,
+        "duration": 110
+      },
+      {
+        "time": 13196,
+        "name": "B2",
+        "velocity": 69,
+        "duration": 55
+      },
+      {
+        "time": 13257,
+        "name": "Gb4",
+        "velocity": 69,
+        "duration": 51
+      },
+      {
+        "time": 13313,
+        "name": "Bb2",
+        "velocity": 69,
+        "duration": 29
+      },
+      {
+        "time": 13349,
+        "name": "Ab4",
+        "velocity": 69,
+        "duration": 91
+      },
+      {
+        "time": 13460,
+        "name": "B2",
+        "velocity": 72,
+        "duration": 378
+      },
+      {
+        "time": 13868,
+        "name": "B2",
+        "velocity": 70,
+        "duration": 153
+      },
+      {
+        "time": 14039,
+        "name": "Gb4",
+        "velocity": 69,
+        "duration": 177
+      },
+      {
+        "time": 14245,
+        "name": "Bb2",
+        "velocity": 73,
+        "duration": 196
+      },
+      {
+        "time": 14458,
+        "name": "F4",
+        "velocity": 69,
+        "duration": 73
+      },
+      {
+        "time": 14549,
+        "name": "Eb4",
+        "velocity": 69,
+        "duration": 83
+      },
+      {
+        "time": 14661,
+        "name": "Bb2",
+        "velocity": 70,
+        "duration": 108
+      },
+      {
+        "time": 14775,
+        "name": "Bb2",
+        "velocity": 69,
+        "duration": 56
+      },
+      {
+        "time": 14836,
+        "name": "F4",
+        "velocity": 69,
+        "duration": 53
+      },
+      {
+        "time": 14894,
+        "name": "Ab2",
+        "velocity": 69,
+        "duration": 23
+      },
+      {
+        "time": 14928,
+        "name": "Gb4",
+        "velocity": 69,
+        "duration": 89
+      },
+      {
+        "time": 15034,
+        "name": "Bb2",
+        "velocity": 72,
+        "duration": 386
+      },
+      {
+        "time": 15448,
+        "name": "Bb2",
+        "velocity": 70,
+        "duration": 153
+      },
+      {
+        "time": 15618,
+        "name": "F4",
+        "velocity": 69,
+        "duration": 179
+      },
+      {
+        "time": 15826,
+        "name": "C3",
+        "velocity": 73,
+        "duration": 195
+      },
+      {
+        "time": 16026,
+        "name": "C5",
+        "velocity": 69,
+        "duration": 85
+      },
+      {
+        "time": 16117,
+        "name": "D5",
+        "velocity": 69,
+        "duration": 91
+      },
+      {
+        "time": 16237,
+        "name": "C3",
+        "velocity": 70,
+        "duration": 106
+      },
+      {
+        "time": 16349,
+        "name": "C3",
+        "velocity": 69,
+        "duration": 115
+      },
+      {
+        "time": 16471,
+        "name": "Bb2",
+        "velocity": 69,
+        "duration": 35
+      },
+      {
+        "time": 16534,
+        "name": "F4",
+        "velocity": 69,
+        "duration": 64
+      },
+      {
+        "time": 16615,
+        "name": "C3",
+        "velocity": 72,
+        "duration": 191
+      },
+      {
+        "time": 16811,
+        "name": "G4",
+        "velocity": 69,
+        "duration": 86
+      },
+      {
+        "time": 16902,
+        "name": "A4",
+        "velocity": 69,
+        "duration": 91
+      },
+      {
+        "time": 17021,
+        "name": "C3",
+        "velocity": 70,
+        "duration": 168
+      },
+      {
+        "time": 17200,
+        "name": "C5",
+        "velocity": 69,
+        "duration": 191
+      },
+      {
+        "time": 17424,
+        "name": "F2",
+        "velocity": 73,
+        "duration": 183
+      },
+      {
+        "time": 17629,
+        "name": "F4",
+        "velocity": 65,
+        "duration": 86
+      },
+      {
+        "time": 17731,
+        "name": "F4",
+        "velocity": 61,
+        "duration": 82
+      },
+      {
+        "time": 17840,
+        "name": "F2",
+        "velocity": 70,
+        "duration": 171
+      },
+      {
+        "time": 18028,
+        "name": "F4",
+        "velocity": 61,
+        "duration": 76
+      },
+      {
+        "time": 18121,
+        "name": "F4",
+        "velocity": 61,
+        "duration": 86
+      },
+      {
+        "time": 18235,
+        "name": "F2",
+        "velocity": 72,
+        "duration": 168
+      },
+      {
+        "time": 18420,
+        "name": "F4",
+        "velocity": 61,
+        "duration": 80
+      },
+      {
+        "time": 18517,
+        "name": "F4",
+        "velocity": 61,
+        "duration": 81
+      },
+      {
+        "time": 18625,
+        "name": "G2",
+        "velocity": 70,
+        "duration": 153
+      },
+      {
+        "time": 18816,
+        "name": "A2",
+        "velocity": 69,
+        "duration": 158
+      },
+      {
+        "time": 18997,
+        "name": "D4",
+        "velocity": 73,
+        "duration": 395
+      },
+      {
+        "time": 19422,
+        "name": "Bb2",
+        "velocity": 70,
+        "duration": 103
+      },
+      {
+        "time": 19542,
+        "name": "Bb2",
+        "velocity": 69,
+        "duration": 101
+      },
+      {
+        "time": 19660,
+        "name": "Ab2",
+        "velocity": 69,
+        "duration": 120
+      },
+      {
+        "time": 19797,
+        "name": "Bb2",
+        "velocity": 72,
+        "duration": 280
+      },
+      {
+        "time": 20082,
+        "name": "Bb4",
+        "velocity": 69,
+        "duration": 97
+      },
+      {
+        "time": 20207,
+        "name": "Bb2",
+        "velocity": 70,
+        "duration": 59
+      },
+      {
+        "time": 20282,
+        "name": "Eb4",
+        "velocity": 69,
+        "duration": 81
+      },
+      {
+        "time": 20379,
+        "name": "F4",
+        "velocity": 69,
+        "duration": 83
+      },
+      {
+        "time": 20479,
+        "name": "G4",
+        "velocity": 69,
+        "duration": 80
+      },
+      {
+        "time": 20588,
+        "name": "Ab2",
+        "velocity": 73,
+        "duration": 284
+      },
+      {
+        "time": 20878,
+        "name": "Bb4",
+        "velocity": 69,
+        "duration": 92
+      },
+      {
+        "time": 20987,
+        "name": "Ab2",
+        "velocity": 70,
+        "duration": 79
+      },
+      {
+        "time": 21071,
+        "name": "C5",
+        "velocity": 69,
+        "duration": 34
+      },
+      {
+        "time": 21111,
+        "name": "Ab2",
+        "velocity": 69,
+        "duration": 50
+      },
+      {
+        "time": 21167,
+        "name": "D5",
+        "velocity": 69,
+        "duration": 58
+      },
+      {
+        "time": 21232,
+        "name": "Gb2",
+        "velocity": 69,
+        "duration": 23
+      },
+      {
+        "time": 21260,
+        "name": "Eb5",
+        "velocity": 69,
+        "duration": 97
+      },
+      {
+        "time": 21374,
+        "name": "Ab2",
+        "velocity": 72,
+        "duration": 184
+      },
+      {
+        "time": 21564,
+        "name": "F5",
+        "velocity": 60,
+        "duration": 191
+      },
+      {
+        "time": 21783,
+        "name": "Ab2",
+        "velocity": 70,
+        "duration": 95
+      },
+      {
+        "time": 21894,
+        "name": "Bb4",
+        "velocity": 69,
+        "duration": 112
+      },
+      {
+        "time": 22024,
+        "name": "C5",
+        "velocity": 69,
+        "duration": 117
+      },
+      {
+        "time": 22170,
+        "name": "Gb2",
+        "velocity": 73,
+        "duration": 380
+      },
+      {
+        "time": 22556,
+        "name": "Gb2",
+        "velocity": 70,
+        "duration": 125
+      },
+      {
+        "time": 22687,
+        "name": "Gb2",
+        "velocity": 69,
+        "duration": 115
+      },
+      {
+        "time": 22808,
+        "name": "E2",
+        "velocity": 69,
+        "duration": 124
+      },
+      {
+        "time": 22943,
+        "name": "Gb2",
+        "velocity": 72,
+        "duration": 391
+      },
+      {
+        "time": 23365,
+        "name": "Gb2",
+        "velocity": 70,
+        "duration": 362
+      },
+      {
+        "time": 23744,
+        "name": "C6",
+        "velocity": 70,
+        "duration": 147
+      },
+      {
+        "time": 24149,
+        "name": "F2",
+        "velocity": 70,
+        "duration": 116
+      },
+      {
+        "time": 24270,
+        "name": "F2",
+        "velocity": 69,
+        "duration": 113
+      },
+      {
+        "time": 24388,
+        "name": "Eb2",
+        "velocity": 69,
+        "duration": 123
+      },
+      {
+        "time": 24523,
+        "name": "F2",
+        "velocity": 72,
+        "duration": 391
+      },
+      {
+        "time": 24942,
+        "name": "F2",
+        "velocity": 70,
+        "duration": 359
+      },
+      {
+        "time": 25329,
+        "name": "E2",
+        "velocity": 72,
+        "duration": 113
+      },
+      {
+        "time": 25447,
+        "name": "Bb2",
+        "velocity": 69,
+        "duration": 124
+      },
+      {
+        "time": 25577,
+        "name": "Db3",
+        "velocity": 69,
+        "duration": 123
+      },
+      {
+        "time": 25711,
+        "name": "E3",
+        "velocity": 70,
+        "duration": 124
+      },
+      {
+        "time": 25840,
+        "name": "Bb3",
+        "velocity": 69,
+        "duration": 121
+      },
+      {
+        "time": 25967,
+        "name": "Db4",
+        "velocity": 69,
+        "duration": 127
+      },
+      {
+        "time": 26910,
+        "name": "A5",
+        "velocity": 70,
+        "duration": 162
+      },
+      {
+        "time": 27316,
+        "name": "F2",
+        "velocity": 61,
+        "duration": 126
+      },
+      {
+        "time": 27448,
+        "name": "F2",
+        "velocity": 60,
+        "duration": 120
+      },
+      {
+        "time": 27574,
+        "name": "F2",
+        "velocity": 60,
+        "duration": 127
+      },
+      {
+        "time": 27706,
+        "name": "F2",
+        "velocity": 72,
+        "duration": 147
+      },
+      {
+        "time": 28502,
+        "name": "E2",
+        "velocity": 72,
+        "duration": 118
+      },
+      {
+        "time": 28625,
+        "name": "Bb2",
+        "velocity": 69,
+        "duration": 120
+      },
+      {
+        "time": 28757,
+        "name": "Db3",
+        "velocity": 69,
+        "duration": 125
+      },
+      {
+        "time": 28887,
+        "name": "E3",
+        "velocity": 70,
+        "duration": 123
+      },
+      {
+        "time": 29021,
+        "name": "Bb3",
+        "velocity": 69,
+        "duration": 119
+      },
+      {
+        "time": 29145,
+        "name": "Db4",
+        "velocity": 69,
+        "duration": 124
+      },
+      {
+        "time": 30088,
+        "name": "A5",
+        "velocity": 70,
+        "duration": 161
+      },
+      {
+        "time": 30497,
+        "name": "F2",
+        "velocity": 61,
+        "duration": 123
+      },
+      {
+        "time": 30626,
+        "name": "F2",
+        "velocity": 60,
+        "duration": 122
+      },
+      {
+        "time": 30754,
+        "name": "F2",
+        "velocity": 60,
+        "duration": 125
+      },
+      {
+        "time": 30885,
+        "name": "F2",
+        "velocity": 72,
+        "duration": 151
+      },
+      {
+        "time": 31680,
+        "name": "B2",
+        "velocity": 73,
+        "duration": 387
+      },
+      {
+        "time": 32073,
+        "name": "B2",
+        "velocity": 70,
+        "duration": 124
+      },
+      {
+        "time": 32203,
+        "name": "B2",
+        "velocity": 69,
+        "duration": 115
+      },
+      {
+        "time": 32324,
+        "name": "Bb2",
+        "velocity": 69,
+        "duration": 126
+      },
+      {
+        "time": 32869,
+        "name": "B2",
+        "velocity": 70,
+        "duration": 370
+      },
+      {
+        "time": 33267,
+        "name": "Bb2",
+        "velocity": 73,
+        "duration": 381
+      },
+      {
+        "time": 33676,
+        "name": "Bb2",
+        "velocity": 70,
+        "duration": 102
+      },
+      {
+        "time": 33784,
+        "name": "Bb2",
+        "velocity": 69,
+        "duration": 113
+      },
+      {
+        "time": 33903,
+        "name": "Ab2",
+        "velocity": 69,
+        "duration": 124
+      },
+      {
+        "time": 34038,
+        "name": "Bb2",
+        "velocity": 72,
+        "duration": 389
+      },
+      {
+        "time": 34457,
+        "name": "Bb2",
+        "velocity": 70,
+        "duration": 362
+      },
+      {
+        "time": 34848,
+        "name": "C3",
+        "velocity": 73,
+        "duration": 182
+      },
+      {
+        "time": 35035,
+        "name": "C5",
+        "velocity": 69,
+        "duration": 85
+      },
+      {
+        "time": 35125,
+        "name": "D5",
+        "velocity": 69,
+        "duration": 92
+      },
+      {
+        "time": 35245,
+        "name": "C3",
+        "velocity": 70,
+        "duration": 113
+      },
+      {
+        "time": 35364,
+        "name": "C3",
+        "velocity": 69,
+        "duration": 110
+      },
+      {
+        "time": 35485,
+        "name": "Bb2",
+        "velocity": 69,
+        "duration": 33
+      },
+      {
+        "time": 35546,
+        "name": "F4",
+        "velocity": 69,
+        "duration": 62
+      },
+      {
+        "time": 35625,
+        "name": "C3",
+        "velocity": 72,
+        "duration": 185
+      },
+      {
+        "time": 35816,
+        "name": "G4",
+        "velocity": 69,
+        "duration": 84
+      },
+      {
+        "time": 35906,
+        "name": "A4",
+        "velocity": 69,
+        "duration": 96
+      },
+      {
+        "time": 36030,
+        "name": "C3",
+        "velocity": 70,
+        "duration": 160
+      },
+      {
+        "time": 36202,
+        "name": "C5",
+        "velocity": 69,
+        "duration": 184
+      },
+      {
+        "time": 36420,
+        "name": "F2",
+        "velocity": 73,
+        "duration": 173
+      },
+      {
+        "time": 36622,
+        "name": "F4",
+        "velocity": 65,
+        "duration": 83
+      },
+      {
+        "time": 36722,
+        "name": "F4",
+        "velocity": 61,
+        "duration": 83
+      },
+      {
+        "time": 36833,
+        "name": "F2",
+        "velocity": 70,
+        "duration": 166
+      },
+      {
+        "time": 37016,
+        "name": "F4",
+        "velocity": 61,
+        "duration": 78
+      },
+      {
+        "time": 37110,
+        "name": "F4",
+        "velocity": 61,
+        "duration": 85
+      },
+      {
+        "time": 37222,
+        "name": "F2",
+        "velocity": 72,
+        "duration": 170
+      },
+      {
+        "time": 37409,
+        "name": "F4",
+        "velocity": 61,
+        "duration": 79
+      },
+      {
+        "time": 37504,
+        "name": "F4",
+        "velocity": 61,
+        "duration": 85
+      },
+      {
+        "time": 37616,
+        "name": "G2",
+        "velocity": 70,
+        "duration": 154
+      },
+      {
+        "time": 37802,
+        "name": "A2",
+        "velocity": 69,
+        "duration": 164
+      },
+      {
+        "time": 37978,
+        "name": "Bb4",
+        "velocity": 73,
+        "duration": 403
+      },
+      {
+        "time": 38411,
+        "name": "Bb2",
+        "velocity": 70,
+        "duration": 101
+      },
+      {
+        "time": 38528,
+        "name": "Bb2",
+        "velocity": 69,
+        "duration": 107
+      },
+      {
+        "time": 38653,
+        "name": "Ab2",
+        "velocity": 69,
+        "duration": 113
+      },
+      {
+        "time": 38783,
+        "name": "Bb2",
+        "velocity": 72,
+        "duration": 283
+      },
+      {
+        "time": 39072,
+        "name": "Bb4",
+        "velocity": 69,
+        "duration": 96
+      },
+      {
+        "time": 39198,
+        "name": "Bb2",
+        "velocity": 70,
+        "duration": 62
+      },
+      {
+        "time": 39278,
+        "name": "Eb4",
+        "velocity": 69,
+        "duration": 74
+      },
+      {
+        "time": 39370,
+        "name": "F4",
+        "velocity": 69,
+        "duration": 78
+      },
+      {
+        "time": 39466,
+        "name": "G4",
+        "velocity": 69,
+        "duration": 84
+      },
+      {
+        "time": 39578,
+        "name": "Ab2",
+        "velocity": 73,
+        "duration": 283
+      },
+      {
+        "time": 39867,
+        "name": "Bb4",
+        "velocity": 69,
+        "duration": 91
+      },
+      {
+        "time": 39976,
+        "name": "Ab2",
+        "velocity": 70,
+        "duration": 76
+      },
+      {
+        "time": 40063,
+        "name": "C5",
+        "velocity": 69,
+        "duration": 28
+      },
+      {
+        "time": 40097,
+        "name": "Ab2",
+        "velocity": 69,
+        "duration": 50
+      },
+      {
+        "time": 40159,
+        "name": "D5",
+        "velocity": 69,
+        "duration": 50
+      },
+      {
+        "time": 40221,
+        "name": "Gb2",
+        "velocity": 69,
+        "duration": 23
+      },
+      {
+        "time": 40249,
+        "name": "Eb5",
+        "velocity": 69,
+        "duration": 98
+      },
+      {
+        "time": 40363,
+        "name": "Ab2",
+        "velocity": 72,
+        "duration": 189
+      },
+      {
+        "time": 40557,
+        "name": "F5",
+        "velocity": 60,
+        "duration": 190
+      },
+      {
+        "time": 40775,
+        "name": "Ab2",
+        "velocity": 70,
+        "duration": 90
+      },
+      {
+        "time": 40883,
+        "name": "Bb4",
+        "velocity": 69,
+        "duration": 108
+      },
+      {
+        "time": 41010,
+        "name": "C5",
+        "velocity": 69,
+        "duration": 116
+      },
+      {
+        "time": 41155,
+        "name": "Gb2",
+        "velocity": 73,
+        "duration": 285
+      },
+      {
+        "time": 41446,
+        "name": "Gb4",
+        "velocity": 69,
+        "duration": 96
+      },
+      {
+        "time": 41559,
+        "name": "Gb2",
+        "velocity": 70,
+        "duration": 72
+      },
+      {
+        "time": 41637,
+        "name": "Ab4",
+        "velocity": 69,
+        "duration": 34
+      },
+      {
+        "time": 41676,
+        "name": "Gb2",
+        "velocity": 69,
+        "duration": 50
+      },
+      {
+        "time": 41732,
+        "name": "Bb4",
+        "velocity": 69,
+        "duration": 57
+      },
+      {
+        "time": 41800,
+        "name": "E2",
+        "velocity": 69,
+        "duration": 25
+      },
+      {
+        "time": 41830,
+        "name": "C5",
+        "velocity": 69,
+        "duration": 96
+      },
+      {
+        "time": 41946,
+        "name": "Gb2",
+        "velocity": 72,
+        "duration": 119
+      },
+      {
+        "time": 42070,
+        "name": "Bb5",
+        "velocity": 69,
+        "duration": 57
+      },
+      {
+        "time": 42133,
+        "name": "Db5",
+        "velocity": 60,
+        "duration": 56
+      },
+      {
+        "time": 42195,
+        "name": "Bb5",
+        "velocity": 69,
+        "duration": 126
+      },
+      {
+        "time": 42349,
+        "name": "Gb2",
+        "velocity": 70,
+        "duration": 94
+      },
+      {
+        "time": 42460,
+        "name": "C5",
+        "velocity": 69,
+        "duration": 112
+      },
+      {
+        "time": 42589,
+        "name": "Bb4",
+        "velocity": 69,
+        "duration": 113
+      },
+      {
+        "time": 42734,
+        "name": "Db3",
+        "velocity": 73,
+        "duration": 120
+      },
+      {
+        "time": 42992,
+        "name": "Ab4",
+        "velocity": 69,
+        "duration": 120
+      },
+      {
+        "time": 43141,
+        "name": "Db3",
+        "velocity": 70,
+        "duration": 109
+      },
+      {
+        "time": 43267,
+        "name": "Db3",
+        "velocity": 69,
+        "duration": 102
+      },
+      {
+        "time": 43386,
+        "name": "B2",
+        "velocity": 69,
+        "duration": 115
+      },
+      {
+        "time": 43518,
+        "name": "Db3",
+        "velocity": 72,
+        "duration": 254
+      },
+      {
+        "time": 43778,
+        "name": "Ab4",
+        "velocity": 69,
+        "duration": 122
+      },
+      {
+        "time": 43928,
+        "name": "Db3",
+        "velocity": 70,
+        "duration": 96
+      },
+      {
+        "time": 44040,
+        "name": "Gb4",
+        "velocity": 69,
+        "duration": 112
+      },
+      {
+        "time": 44157,
+        "name": "Ab4",
+        "velocity": 69,
+        "duration": 124
+      },
+      {
+        "time": 44315,
+        "name": "B2",
+        "velocity": 73,
+        "duration": 189
+      },
+      {
+        "time": 44520,
+        "name": "Gb4",
+        "velocity": 69,
+        "duration": 75
+      },
+      {
+        "time": 44612,
+        "name": "F4",
+        "velocity": 69,
+        "duration": 81
+      },
+      {
+        "time": 44721,
+        "name": "B2",
+        "velocity": 70,
+        "duration": 109
+      },
+      {
+        "time": 44836,
+        "name": "B2",
+        "velocity": 69,
+        "duration": 58
+      },
+      {
+        "time": 44900,
+        "name": "Gb4",
+        "velocity": 69,
+        "duration": 53
+      },
+      {
+        "time": 44959,
+        "name": "Bb2",
+        "velocity": 69,
+        "duration": 23
+      },
+      {
+        "time": 44987,
+        "name": "Ab4",
+        "velocity": 69,
+        "duration": 96
+      },
+      {
+        "time": 45099,
+        "name": "B2",
+        "velocity": 72,
+        "duration": 381
+      },
+      {
+        "time": 45508,
+        "name": "B2",
+        "velocity": 70,
+        "duration": 154
+      },
+      {
+        "time": 45679,
+        "name": "Gb4",
+        "velocity": 69,
+        "duration": 181
+      },
+      {
+        "time": 45888,
+        "name": "Bb2",
+        "velocity": 73,
+        "duration": 192
+      },
+      {
+        "time": 46096,
+        "name": "F4",
+        "velocity": 69,
+        "duration": 75
+      },
+      {
+        "time": 46187,
+        "name": "Eb4",
+        "velocity": 69,
+        "duration": 86
+      },
+      {
+        "time": 46302,
+        "name": "Bb2",
+        "velocity": 70,
+        "duration": 109
+      },
+      {
+        "time": 46417,
+        "name": "Bb2",
+        "velocity": 69,
+        "duration": 56
+      },
+      {
+        "time": 46478,
+        "name": "F4",
+        "velocity": 69,
+        "duration": 49
+      },
+      {
+        "time": 46538,
+        "name": "Ab2",
+        "velocity": 69,
+        "duration": 23
+      },
+      {
+        "time": 46567,
+        "name": "Gb4",
+        "velocity": 69,
+        "duration": 100
+      },
+      {
+        "time": 46683,
+        "name": "Bb2",
+        "velocity": 72,
+        "duration": 378
+      },
+      {
+        "time": 47089,
+        "name": "Bb2",
+        "velocity": 70,
+        "duration": 152
+      },
+      {
+        "time": 47262,
+        "name": "F4",
+        "velocity": 69,
+        "duration": 174
+      },
+      {
+        "time": 47464,
+        "name": "C3",
+        "velocity": 73,
+        "duration": 195
+      },
+      {
+        "time": 47665,
+        "name": "C5",
+        "velocity": 69,
+        "duration": 85
+      },
+      {
+        "time": 47756,
+        "name": "D5",
+        "velocity": 69,
+        "duration": 94
+      },
+      {
+        "time": 47883,
+        "name": "C3",
+        "velocity": 70,
+        "duration": 104
+      },
+      {
+        "time": 47993,
+        "name": "C3",
+        "velocity": 69,
+        "duration": 115
+      },
+      {
+        "time": 48113,
+        "name": "Bb2",
+        "velocity": 69,
+        "duration": 34
+      },
+      {
+        "time": 48177,
+        "name": "F4",
+        "velocity": 69,
+        "duration": 62
+      },
+      {
+        "time": 48255,
+        "name": "C3",
+        "velocity": 72,
+        "duration": 189
+      },
+      {
+        "time": 48450,
+        "name": "G4",
+        "velocity": 69,
+        "duration": 88
+      },
+      {
+        "time": 48543,
+        "name": "A4",
+        "velocity": 69,
+        "duration": 93
+      },
+      {
+        "time": 48665,
+        "name": "C3",
+        "velocity": 70,
+        "duration": 164
+      },
+      {
+        "time": 48846,
+        "name": "C5",
+        "velocity": 69,
+        "duration": 187
+      },
+      {
+        "time": 49067,
+        "name": "F2",
+        "velocity": 73,
+        "duration": 181
+      },
+      {
+        "time": 49271,
+        "name": "F4",
+        "velocity": 65,
+        "duration": 86
+      },
+      {
+        "time": 49375,
+        "name": "F4",
+        "velocity": 61,
+        "duration": 82
+      },
+      {
+        "time": 49485,
+        "name": "F2",
+        "velocity": 70,
+        "duration": 164
+      },
+      {
+        "time": 49665,
+        "name": "F4",
+        "velocity": 61,
+        "duration": 79
+      },
+      {
+        "time": 49761,
+        "name": "F4",
+        "velocity": 61,
+        "duration": 86
+      },
+      {
+        "time": 49875,
+        "name": "F2",
+        "velocity": 72,
+        "duration": 172
+      },
+      {
+        "time": 50064,
+        "name": "F4",
+        "velocity": 61,
+        "duration": 76
+      },
+      {
+        "time": 50157,
+        "name": "F4",
+        "velocity": 61,
+        "duration": 85
+      },
+      {
+        "time": 50270,
+        "name": "G2",
+        "velocity": 70,
+        "duration": 155
+      },
+      {
+        "time": 50458,
+        "name": "A2",
+        "velocity": 69,
+        "duration": 158
+      },
+      {
+        "time": 50640,
+        "name": "D4",
+        "velocity": 73,
+        "duration": 394
+      },
+      {
+        "time": 51061,
+        "name": "Bb2",
+        "velocity": 70,
+        "duration": 104
+      },
+      {
+        "time": 51181,
+        "name": "Bb2",
+        "velocity": 69,
+        "duration": 105
+      },
+      {
+        "time": 51303,
+        "name": "Ab2",
+        "velocity": 69,
+        "duration": 117
+      },
+      {
+        "time": 51436,
+        "name": "Bb2",
+        "velocity": 72,
+        "duration": 282
+      },
+      {
+        "time": 51724,
+        "name": "Bb4",
+        "velocity": 69,
+        "duration": 97
+      },
+      {
+        "time": 51849,
+        "name": "Bb2",
+        "velocity": 70,
+        "duration": 62
+      },
+      {
+        "time": 51930,
+        "name": "Eb4",
+        "velocity": 69,
+        "duration": 77
+      },
+      {
+        "time": 52029,
+        "name": "F4",
+        "velocity": 69,
+        "duration": 74
+      },
+      {
+        "time": 52122,
+        "name": "G4",
+        "velocity": 69,
+        "duration": 83
+      },
+      {
+        "time": 52235,
+        "name": "Ab2",
+        "velocity": 73,
+        "duration": 282
+      },
+      {
+        "time": 52523,
+        "name": "Bb4",
+        "velocity": 69,
+        "duration": 92
+      },
+      {
+        "time": 52632,
+        "name": "Ab2",
+        "velocity": 70,
+        "duration": 79
+      },
+      {
+        "time": 52717,
+        "name": "C5",
+        "velocity": 69,
+        "duration": 27
+      },
+      {
+        "time": 52749,
+        "name": "Ab2",
+        "velocity": 69,
+        "duration": 56
+      },
+      {
+        "time": 52810,
+        "name": "D5",
+        "velocity": 69,
+        "duration": 54
+      },
+      {
+        "time": 52875,
+        "name": "Gb2",
+        "velocity": 69,
+        "duration": 22
+      },
+      {
+        "time": 52908,
+        "name": "Eb5",
+        "velocity": 69,
+        "duration": 92
+      },
+      {
+        "time": 53017,
+        "name": "Ab2",
+        "velocity": 72,
+        "duration": 187
+      },
+      {
+        "time": 53210,
+        "name": "F5",
+        "velocity": 60,
+        "duration": 188
+      },
+      {
+        "time": 53426,
+        "name": "Ab2",
+        "velocity": 70,
+        "duration": 96
+      },
+      {
+        "time": 53540,
+        "name": "Bb4",
+        "velocity": 69,
+        "duration": 108
+      },
+      {
+        "time": 53665,
+        "name": "C5",
+        "velocity": 69,
+        "duration": 114
+      },
+      {
+        "time": 53808,
+        "name": "Gb2",
+        "velocity": 73,
+        "duration": 385
+      },
+      {
+        "time": 54198,
+        "name": "Gb2",
+        "velocity": 70,
+        "duration": 125
+      },
+      {
+        "time": 54328,
+        "name": "Gb2",
+        "velocity": 69,
+        "duration": 116
+      },
+      {
+        "time": 54456,
+        "name": "E2",
+        "velocity": 69,
+        "duration": 124
+      },
+      {
+        "time": 54585,
+        "name": "Gb2",
+        "velocity": 72,
+        "duration": 390
+      },
+      {
+        "time": 55003,
+        "name": "Gb2",
+        "velocity": 70,
+        "duration": 361
+      },
+      {
+        "time": 55381,
+        "name": "C6",
+        "velocity": 70,
+        "duration": 158
+      },
+      {
+        "time": 55787,
+        "name": "F2",
+        "velocity": 70,
+        "duration": 118
+      },
+      {
+        "time": 55910,
+        "name": "F2",
+        "velocity": 69,
+        "duration": 114
+      },
+      {
+        "time": 56030,
+        "name": "Eb2",
+        "velocity": 69,
+        "duration": 126
+      },
+      {
+        "time": 56164,
+        "name": "F2",
+        "velocity": 72,
+        "duration": 390
+      },
+      {
+        "time": 56583,
+        "name": "F2",
+        "velocity": 70,
+        "duration": 364
+      },
+      {
+        "time": 56976,
+        "name": "E2",
+        "velocity": 72,
+        "duration": 105
+      },
+      {
+        "time": 57094,
+        "name": "Bb2",
+        "velocity": 69,
+        "duration": 119
+      },
+      {
+        "time": 57218,
+        "name": "Db3",
+        "velocity": 69,
+        "duration": 125
+      },
+      {
+        "time": 57354,
+        "name": "E3",
+        "velocity": 70,
+        "duration": 122
+      },
+      {
+        "time": 57482,
+        "name": "Bb3",
+        "velocity": 69,
+        "duration": 117
+      },
+      {
+        "time": 57610,
+        "name": "Db4",
+        "velocity": 69,
+        "duration": 125
+      },
+      {
+        "time": 58554,
+        "name": "A5",
+        "velocity": 70,
+        "duration": 161
+      },
+      {
+        "time": 58962,
+        "name": "F2",
+        "velocity": 61,
+        "duration": 123
+      },
+      {
+        "time": 59093,
+        "name": "F2",
+        "velocity": 60,
+        "duration": 115
+      },
+      {
+        "time": 59214,
+        "name": "F2",
+        "velocity": 60,
+        "duration": 127
+      },
+      {
+        "time": 59347,
+        "name": "F2",
+        "velocity": 72,
+        "duration": 149
+      },
+      {
+        "time": 60148,
+        "name": "E2",
+        "velocity": 72,
+        "duration": 114
+      },
+      {
+        "time": 60273,
+        "name": "Bb2",
+        "velocity": 69,
+        "duration": 117
+      },
+      {
+        "time": 60402,
+        "name": "Db3",
+        "velocity": 69,
+        "duration": 123
+      },
+      {
+        "time": 60530,
+        "name": "E3",
+        "velocity": 70,
+        "duration": 125
+      },
+      {
+        "time": 60661,
+        "name": "Bb3",
+        "velocity": 69,
+        "duration": 118
+      },
+      {
+        "time": 60790,
+        "name": "Db4",
+        "velocity": 69,
+        "duration": 124
+      },
+      {
+        "time": 61732,
+        "name": "A5",
+        "velocity": 70,
+        "duration": 163
+      },
+      {
+        "time": 62143,
+        "name": "F2",
+        "velocity": 61,
+        "duration": 117
+      },
+      {
+        "time": 62266,
+        "name": "F2",
+        "velocity": 60,
+        "duration": 125
+      },
+      {
+        "time": 62396,
+        "name": "F2",
+        "velocity": 60,
+        "duration": 124
+      },
+      {
+        "time": 62526,
+        "name": "F2",
+        "velocity": 72,
+        "duration": 153
+      },
+      {
+        "time": 63322,
+        "name": "B2",
+        "velocity": 73,
+        "duration": 388
+      },
+      {
+        "time": 63716,
+        "name": "B2",
+        "velocity": 70,
+        "duration": 124
+      },
+      {
+        "time": 63846,
+        "name": "B2",
+        "velocity": 69,
+        "duration": 112
+      },
+      {
+        "time": 63970,
+        "name": "Bb2",
+        "velocity": 69,
+        "duration": 123
+      },
+      {
+        "time": 64507,
+        "name": "B2",
+        "velocity": 70,
+        "duration": 373
+      },
+      {
+        "time": 64908,
+        "name": "Bb2",
+        "velocity": 73,
+        "duration": 382
+      },
+      {
+        "time": 65319,
+        "name": "Bb2",
+        "velocity": 70,
+        "duration": 101
+      },
+      {
+        "time": 65425,
+        "name": "Bb2",
+        "velocity": 69,
+        "duration": 111
+      },
+      {
+        "time": 65547,
+        "name": "Ab2",
+        "velocity": 69,
+        "duration": 124
+      },
+      {
+        "time": 65677,
+        "name": "Bb2",
+        "velocity": 72,
+        "duration": 394
+      },
+      {
+        "time": 66099,
+        "name": "Bb2",
+        "velocity": 70,
+        "duration": 359
+      },
+      {
+        "time": 66490,
+        "name": "C3",
+        "velocity": 73,
+        "duration": 182
+      },
+      {
+        "time": 66677,
+        "name": "C5",
+        "velocity": 69,
+        "duration": 85
+      },
+      {
+        "time": 66769,
+        "name": "D5",
+        "velocity": 69,
+        "duration": 99
+      },
+      {
+        "time": 66895,
+        "name": "C3",
+        "velocity": 70,
+        "duration": 102
+      },
+      {
+        "time": 67003,
+        "name": "C3",
+        "velocity": 69,
+        "duration": 116
+      },
+      {
+        "time": 67125,
+        "name": "Bb2",
+        "velocity": 69,
+        "duration": 34
+      },
+      {
+        "time": 67187,
+        "name": "F4",
+        "velocity": 69,
+        "duration": 62
+      },
+      {
+        "time": 67267,
+        "name": "C3",
+        "velocity": 72,
+        "duration": 186
+      },
+      {
+        "time": 67458,
+        "name": "G4",
+        "velocity": 69,
+        "duration": 85
+      },
+      {
+        "time": 67548,
+        "name": "A4",
+        "velocity": 69,
+        "duration": 95
+      },
+      {
+        "time": 67671,
+        "name": "C3",
+        "velocity": 70,
+        "duration": 162
+      },
+      {
+        "time": 67844,
+        "name": "C5",
+        "velocity": 69,
+        "duration": 185
+      },
+      {
+        "time": 68063,
+        "name": "F2",
+        "velocity": 73,
+        "duration": 177
+      },
+      {
+        "time": 68262,
+        "name": "F4",
+        "velocity": 65,
+        "duration": 82
+      },
+      {
+        "time": 68361,
+        "name": "F4",
+        "velocity": 61,
+        "duration": 83
+      },
+      {
+        "time": 68471,
+        "name": "F2",
+        "velocity": 70,
+        "duration": 168
+      },
+      {
+        "time": 68656,
+        "name": "F4",
+        "velocity": 61,
+        "duration": 81
+      },
+      {
+        "time": 68754,
+        "name": "F4",
+        "velocity": 61,
+        "duration": 81
+      },
+      {
+        "time": 68863,
+        "name": "F2",
+        "velocity": 72,
+        "duration": 171
+      },
+      {
+        "time": 69051,
+        "name": "F4",
+        "velocity": 61,
+        "duration": 79
+      },
+      {
+        "time": 69147,
+        "name": "F4",
+        "velocity": 61,
+        "duration": 84
+      },
+      {
+        "time": 69259,
+        "name": "G2",
+        "velocity": 70,
+        "duration": 152
+      },
+      {
+        "time": 69445,
+        "name": "A2",
+        "velocity": 69,
+        "duration": 162
+      },
+      {
+        "time": 69619,
+        "name": "Bb4",
+        "velocity": 73,
+        "duration": 404
+      },
+      {
+        "time": 70052,
+        "name": "Bb2",
+        "velocity": 70,
+        "duration": 102
+      },
+      {
+        "time": 70171,
+        "name": "Bb2",
+        "velocity": 69,
+        "duration": 101
+      },
+      {
+        "time": 70310,
+        "name": "Ab2",
+        "velocity": 69,
+        "duration": 102
+      },
+      {
+        "time": 70430,
+        "name": "Bb2",
+        "velocity": 72,
+        "duration": 278
+      },
+      {
+        "time": 70713,
+        "name": "Bb4",
+        "velocity": 69,
+        "duration": 97
+      },
+      {
+        "time": 70839,
+        "name": "Bb2",
+        "velocity": 70,
+        "duration": 62
+      },
+      {
+        "time": 70919,
+        "name": "Eb4",
+        "velocity": 69,
+        "duration": 80
+      },
+      {
+        "time": 71016,
+        "name": "F4",
+        "velocity": 69,
+        "duration": 78
+      },
+      {
+        "time": 71111,
+        "name": "G4",
+        "velocity": 69,
+        "duration": 81
+      },
+      {
+        "time": 71220,
+        "name": "Ab2",
+        "velocity": 73,
+        "duration": 283
+      },
+      {
+        "time": 71509,
+        "name": "Bb4",
+        "velocity": 69,
+        "duration": 93
+      },
+      {
+        "time": 71619,
+        "name": "Ab2",
+        "velocity": 70,
+        "duration": 77
+      },
+      {
+        "time": 71702,
+        "name": "C5",
+        "velocity": 69,
+        "duration": 36
+      },
+      {
+        "time": 71743,
+        "name": "Ab2",
+        "velocity": 69,
+        "duration": 52
+      },
+      {
+        "time": 71800,
+        "name": "D5",
+        "velocity": 69,
+        "duration": 53
+      },
+      {
+        "time": 71864,
+        "name": "Gb2",
+        "velocity": 69,
+        "duration": 23
+      },
+      {
+        "time": 71892,
+        "name": "Eb5",
+        "velocity": 69,
+        "duration": 97
+      },
+      {
+        "time": 72006,
+        "name": "Ab2",
+        "velocity": 72,
+        "duration": 188
+      },
+      {
+        "time": 72199,
+        "name": "F5",
+        "velocity": 60,
+        "duration": 188
+      },
+      {
+        "time": 72415,
+        "name": "Ab2",
+        "velocity": 70,
+        "duration": 92
+      },
+      {
+        "time": 72524,
+        "name": "Bb4",
+        "velocity": 69,
+        "duration": 115
+      },
+      {
+        "time": 72656,
+        "name": "C5",
+        "velocity": 69,
+        "duration": 114
+      },
+      {
+        "time": 72798,
+        "name": "Gb2",
+        "velocity": 73,
+        "duration": 286
+      },
+      {
+        "time": 73090,
+        "name": "Gb4",
+        "velocity": 69,
+        "duration": 92
+      },
+      {
+        "time": 73199,
+        "name": "Gb2",
+        "velocity": 70,
+        "duration": 78
+      },
+      {
+        "time": 73283,
+        "name": "Ab4",
+        "velocity": 69,
+        "duration": 28
+      },
+      {
+        "time": 73317,
+        "name": "Gb2",
+        "velocity": 69,
+        "duration": 54
+      },
+      {
+        "time": 73377,
+        "name": "Bb4",
+        "velocity": 69,
+        "duration": 55
+      },
+      {
+        "time": 73444,
+        "name": "E2",
+        "velocity": 69,
+        "duration": 23
+      },
+      {
+        "time": 73473,
+        "name": "C5",
+        "velocity": 69,
+        "duration": 96
+      },
+      {
+        "time": 73585,
+        "name": "Gb2",
+        "velocity": 72,
+        "duration": 121
+      },
+      {
+        "time": 73712,
+        "name": "Bb5",
+        "velocity": 69,
+        "duration": 58
+      },
+      {
+        "time": 73775,
+        "name": "Db5",
+        "velocity": 60,
+        "duration": 57
+      },
+      {
+        "time": 73837,
+        "name": "Bb5",
+        "velocity": 69,
+        "duration": 128
+      },
+      {
+        "time": 73993,
+        "name": "Gb2",
+        "velocity": 70,
+        "duration": 95
+      },
+      {
+        "time": 74105,
+        "name": "C5",
+        "velocity": 69,
+        "duration": 109
+      },
+      {
+        "time": 74231,
+        "name": "Bb4",
+        "velocity": 69,
+        "duration": 115
+      },
+      {
+        "time": 74377,
+        "name": "Db3",
+        "velocity": 73,
+        "duration": 120
+      },
+      {
+        "time": 74636,
+        "name": "Ab4",
+        "velocity": 69,
+        "duration": 118
+      },
+      {
+        "time": 74789,
+        "name": "Db3",
+        "velocity": 70,
+        "duration": 102
+      },
+      {
+        "time": 74907,
+        "name": "Db3",
+        "velocity": 69,
+        "duration": 107
+      },
+      {
+        "time": 75031,
+        "name": "B2",
+        "velocity": 69,
+        "duration": 113
+      },
+      {
+        "time": 75161,
+        "name": "Db3",
+        "velocity": 72,
+        "duration": 254
+      },
+      {
+        "time": 75421,
+        "name": "Ab4",
+        "velocity": 69,
+        "duration": 121
+      },
+      {
+        "time": 75578,
+        "name": "Db3",
+        "velocity": 70,
+        "duration": 93
+      },
+      {
+        "time": 75676,
+        "name": "Gb4",
+        "velocity": 69,
+        "duration": 117
+      },
+      {
+        "time": 75804,
+        "name": "Ab4",
+        "velocity": 69,
+        "duration": 121
+      },
+      {
+        "time": 75958,
+        "name": "B2",
+        "velocity": 73,
+        "duration": 187
+      },
+      {
+        "time": 76164,
+        "name": "Gb4",
+        "velocity": 69,
+        "duration": 72
+      },
+      {
+        "time": 76254,
+        "name": "F4",
+        "velocity": 69,
+        "duration": 84
+      },
+      {
+        "time": 76365,
+        "name": "B2",
+        "velocity": 70,
+        "duration": 108
+      },
+      {
+        "time": 76484,
+        "name": "B2",
+        "velocity": 69,
+        "duration": 50
+      },
+      {
+        "time": 76540,
+        "name": "Gb4",
+        "velocity": 69,
+        "duration": 50
+      },
+      {
+        "time": 76596,
+        "name": "Bb2",
+        "velocity": 69,
+        "duration": 28
+      },
+      {
+        "time": 76630,
+        "name": "Ab4",
+        "velocity": 69,
+        "duration": 93
+      },
+      {
+        "time": 76740,
+        "name": "B2",
+        "velocity": 72,
+        "duration": 384
+      },
+      {
+        "time": 77152,
+        "name": "B2",
+        "velocity": 70,
+        "duration": 154
+      },
+      {
+        "time": 77323,
+        "name": "Gb4",
+        "velocity": 69,
+        "duration": 180
+      },
+      {
+        "time": 77532,
+        "name": "Bb2",
+        "velocity": 73,
+        "duration": 193
+      },
+      {
+        "time": 77741,
+        "name": "F4",
+        "velocity": 69,
+        "duration": 73
+      },
+      {
+        "time": 77830,
+        "name": "Eb4",
+        "velocity": 69,
+        "duration": 85
+      },
+      {
+        "time": 77943,
+        "name": "Bb2",
+        "velocity": 70,
+        "duration": 105
+      },
+      {
+        "time": 78054,
+        "name": "Bb2",
+        "velocity": 69,
+        "duration": 61
+      },
+      {
+        "time": 78121,
+        "name": "F4",
+        "velocity": 69,
+        "duration": 50
+      },
+      {
+        "time": 78176,
+        "name": "Ab2",
+        "velocity": 69,
+        "duration": 29
+      },
+      {
+        "time": 78210,
+        "name": "Gb4",
+        "velocity": 69,
+        "duration": 95
+      },
+      {
+        "time": 78322,
+        "name": "Bb2",
+        "velocity": 72,
+        "duration": 377
+      },
+      {
+        "time": 78728,
+        "name": "Bb2",
+        "velocity": 70,
+        "duration": 158
+      },
+      {
+        "time": 78903,
+        "name": "F4",
+        "velocity": 69,
+        "duration": 177
+      },
+      {
+        "time": 79107,
+        "name": "C3",
+        "velocity": 73,
+        "duration": 192
+      },
+      {
+        "time": 79305,
+        "name": "C5",
+        "velocity": 69,
+        "duration": 85
+      },
+      {
+        "time": 79403,
+        "name": "D5",
+        "velocity": 69,
+        "duration": 91
+      },
+      {
+        "time": 79522,
+        "name": "C3",
+        "velocity": 70,
+        "duration": 105
+      },
+      {
+        "time": 79633,
+        "name": "C3",
+        "velocity": 69,
+        "duration": 118
+      },
+      {
+        "time": 79757,
+        "name": "Bb2",
+        "velocity": 69,
+        "duration": 34
+      },
+      {
+        "time": 79818,
+        "name": "F4",
+        "velocity": 69,
+        "duration": 62
+      },
+      {
+        "time": 79897,
+        "name": "C3",
+        "velocity": 72,
+        "duration": 190
+      },
+      {
+        "time": 80093,
+        "name": "G4",
+        "velocity": 69,
+        "duration": 85
+      },
+      {
+        "time": 80184,
+        "name": "A4",
+        "velocity": 69,
+        "duration": 96
+      },
+      {
+        "time": 80308,
+        "name": "C3",
+        "velocity": 70,
+        "duration": 165
+      },
+      {
+        "time": 80484,
+        "name": "C5",
+        "velocity": 69,
+        "duration": 193
+      },
+      {
+        "time": 80711,
+        "name": "F2",
+        "velocity": 73,
+        "duration": 180
+      },
+      {
+        "time": 80913,
+        "name": "F4",
+        "velocity": 65,
+        "duration": 85
+      },
+      {
+        "time": 81015,
+        "name": "F4",
+        "velocity": 61,
+        "duration": 83
+      },
+      {
+        "time": 81126,
+        "name": "F2",
+        "velocity": 70,
+        "duration": 169
+      },
+      {
+        "time": 81312,
+        "name": "F4",
+        "velocity": 61,
+        "duration": 78
+      },
+      {
+        "time": 81406,
+        "name": "F4",
+        "velocity": 61,
+        "duration": 85
+      },
+      {
+        "time": 81520,
+        "name": "F2",
+        "velocity": 72,
+        "duration": 169
+      },
+      {
+        "time": 81706,
+        "name": "F4",
+        "velocity": 61,
+        "duration": 73
+      },
+      {
+        "time": 81795,
+        "name": "F4",
+        "velocity": 61,
+        "duration": 85
+      },
+      {
+        "time": 81909,
+        "name": "G2",
+        "velocity": 70,
+        "duration": 157
+      },
+      {
+        "time": 82100,
+        "name": "A2",
+        "velocity": 69,
+        "duration": 158
+      },
+      {
+        "time": 82280,
+        "name": "D4",
+        "velocity": 73,
+        "duration": 397
+      },
+      {
+        "time": 82706,
+        "name": "Bb2",
+        "velocity": 70,
+        "duration": 102
+      },
+      {
+        "time": 82825,
+        "name": "Bb2",
+        "velocity": 69,
+        "duration": 105
+      },
+      {
+        "time": 82947,
+        "name": "Ab2",
+        "velocity": 69,
+        "duration": 113
+      },
+      {
+        "time": 83076,
+        "name": "Bb2",
+        "velocity": 72,
+        "duration": 283
+      },
+      {
+        "time": 83365,
+        "name": "Bb4",
+        "velocity": 69,
+        "duration": 96
+      },
+      {
+        "time": 83490,
+        "name": "Bb2",
+        "velocity": 70,
+        "duration": 62
+      },
+      {
+        "time": 83569,
+        "name": "Eb4",
+        "velocity": 69,
+        "duration": 79
+      },
+      {
+        "time": 83665,
+        "name": "F4",
+        "velocity": 69,
+        "duration": 78
+      },
+      {
+        "time": 83760,
+        "name": "G4",
+        "velocity": 69,
+        "duration": 83
+      },
+      {
+        "time": 83871,
+        "name": "Ab2",
+        "velocity": 73,
+        "duration": 287
+      },
+      {
+        "time": 84163,
+        "name": "Bb4",
+        "velocity": 69,
+        "duration": 90
+      },
+      {
+        "time": 84270,
+        "name": "Ab2",
+        "velocity": 70,
+        "duration": 80
+      },
+      {
+        "time": 84356,
+        "name": "C5",
+        "velocity": 69,
+        "duration": 34
+      },
+      {
+        "time": 84395,
+        "name": "Ab2",
+        "velocity": 69,
+        "duration": 51
+      },
+      {
+        "time": 84452,
+        "name": "D5",
+        "velocity": 69,
+        "duration": 51
+      },
+      {
+        "time": 84515,
+        "name": "Gb2",
+        "velocity": 69,
+        "duration": 22
+      },
+      {
+        "time": 84549,
+        "name": "Eb5",
+        "velocity": 69,
+        "duration": 89
+      },
+      {
+        "time": 84655,
+        "name": "Ab2",
+        "velocity": 72,
+        "duration": 187
+      },
+      {
+        "time": 84848,
+        "name": "F5",
+        "velocity": 60,
+        "duration": 192
+      },
+      {
+        "time": 85068,
+        "name": "Ab2",
+        "velocity": 70,
+        "duration": 96
+      },
+      {
+        "time": 85182,
+        "name": "Bb4",
+        "velocity": 69,
+        "duration": 107
+      },
+      {
+        "time": 85305,
+        "name": "C5",
+        "velocity": 69,
+        "duration": 118
+      },
+      {
+        "time": 85451,
+        "name": "Gb2",
+        "velocity": 73,
+        "duration": 383
+      },
+      {
+        "time": 85840,
+        "name": "Gb2",
+        "velocity": 70,
+        "duration": 124
+      },
+      {
+        "time": 85969,
+        "name": "Gb2",
+        "velocity": 69,
+        "duration": 114
+      },
+      {
+        "time": 86094,
+        "name": "E2",
+        "velocity": 69,
+        "duration": 126
+      },
+      {
+        "time": 86226,
+        "name": "Gb2",
+        "velocity": 72,
+        "duration": 392
+      },
+      {
+        "time": 86646,
+        "name": "Gb2",
+        "velocity": 70,
+        "duration": 362
+      },
+      {
+        "time": 87025,
+        "name": "C6",
+        "velocity": 70,
+        "duration": 152
+      },
+      {
+        "time": 87428,
+        "name": "F2",
+        "velocity": 70,
+        "duration": 115
+      },
+      {
+        "time": 87549,
+        "name": "F2",
+        "velocity": 69,
+        "duration": 114
+      },
+      {
+        "time": 87675,
+        "name": "Eb2",
+        "velocity": 69,
+        "duration": 121
+      },
+      {
+        "time": 87802,
+        "name": "F2",
+        "velocity": 72,
+        "duration": 395
+      },
+      {
+        "time": 88226,
+        "name": "F2",
+        "velocity": 70,
+        "duration": 360
+      },
+      {
+        "time": 88617,
+        "name": "E2",
+        "velocity": 72,
+        "duration": 107
+      },
+      {
+        "time": 88735,
+        "name": "Bb2",
+        "velocity": 69,
+        "duration": 116
+      },
+      {
+        "time": 88862,
+        "name": "Db3",
+        "velocity": 69,
+        "duration": 121
+      },
+      {
+        "time": 88994,
+        "name": "E3",
+        "velocity": 70,
+        "duration": 123
+      },
+      {
+        "time": 89123,
+        "name": "Bb3",
+        "velocity": 69,
+        "duration": 117
+      },
+      {
+        "time": 89252,
+        "name": "Db4",
+        "velocity": 69,
+        "duration": 124
+      },
+      {
+        "time": 90196,
+        "name": "A5",
+        "velocity": 70,
+        "duration": 161
+      },
+      {
+        "time": 90603,
+        "name": "F2",
+        "velocity": 61,
+        "duration": 123
+      },
+      {
+        "time": 90731,
+        "name": "F2",
+        "velocity": 60,
+        "duration": 118
+      },
+      {
+        "time": 90854,
+        "name": "F2",
+        "velocity": 60,
+        "duration": 130
+      },
+      {
+        "time": 90990,
+        "name": "F2",
+        "velocity": 72,
+        "duration": 145
+      },
+      {
+        "time": 91785,
+        "name": "E2",
+        "velocity": 72,
+        "duration": 117
+      },
+      {
+        "time": 91913,
+        "name": "Bb2",
+        "velocity": 69,
+        "duration": 118
+      },
+      {
+        "time": 92043,
+        "name": "Db3",
+        "velocity": 69,
+        "duration": 123
+      },
+      {
+        "time": 92172,
+        "name": "E3",
+        "velocity": 70,
+        "duration": 124
+      },
+      {
+        "time": 92302,
+        "name": "Bb3",
+        "velocity": 69,
+        "duration": 123
+      },
+      {
+        "time": 92430,
+        "name": "Db4",
+        "velocity": 69,
+        "duration": 124
+      },
+      {
+        "time": 93372,
+        "name": "A5",
+        "velocity": 70,
+        "duration": 163
+      },
+      {
+        "time": 93782,
+        "name": "F2",
+        "velocity": 61,
+        "duration": 118
+      },
+      {
+        "time": 93905,
+        "name": "F2",
+        "velocity": 60,
+        "duration": 124
+      },
+      {
+        "time": 94035,
+        "name": "F2",
+        "velocity": 60,
+        "duration": 128
+      },
+      {
+        "time": 94169,
+        "name": "F2",
+        "velocity": 72,
+        "duration": 146
+      },
+      {
+        "time": 94970,
+        "name": "B2",
+        "velocity": 73,
+        "duration": 378
+      },
+      {
+        "time": 95354,
+        "name": "B2",
+        "velocity": 70,
+        "duration": 127
+      },
+      {
+        "time": 95487,
+        "name": "B2",
+        "velocity": 69,
+        "duration": 115
+      },
+      {
+        "time": 95608,
+        "name": "Bb2",
+        "velocity": 69,
+        "duration": 126
+      },
+      {
+        "time": 96151,
+        "name": "B2",
+        "velocity": 70,
+        "duration": 373
+      },
+      {
+        "time": 96552,
+        "name": "Bb2",
+        "velocity": 73,
+        "duration": 379
+      },
+      {
+        "time": 96958,
+        "name": "Bb2",
+        "velocity": 70,
+        "duration": 100
+      },
+      {
+        "time": 97063,
+        "name": "Bb2",
+        "velocity": 69,
+        "duration": 119
+      },
+      {
+        "time": 97191,
+        "name": "Ab2",
+        "velocity": 69,
+        "duration": 119
+      },
+      {
+        "time": 97321,
+        "name": "Bb2",
+        "velocity": 72,
+        "duration": 392
+      },
+      {
+        "time": 97740,
+        "name": "Bb2",
+        "velocity": 70,
+        "duration": 363
+      },
+      {
+        "time": 98131,
+        "name": "C3",
+        "velocity": 73,
+        "duration": 179
+      },
+      {
+        "time": 98316,
+        "name": "C5",
+        "velocity": 69,
+        "duration": 85
+      },
+      {
+        "time": 98409,
+        "name": "D5",
+        "velocity": 69,
+        "duration": 95
+      },
+      {
+        "time": 98532,
+        "name": "C3",
+        "velocity": 70,
+        "duration": 108
+      },
+      {
+        "time": 98645,
+        "name": "C3",
+        "velocity": 69,
+        "duration": 114
+      },
+      {
+        "time": 98765,
+        "name": "Bb2",
+        "velocity": 69,
+        "duration": 34
+      },
+      {
+        "time": 98828,
+        "name": "F4",
+        "velocity": 69,
+        "duration": 61
+      },
+      {
+        "time": 98908,
+        "name": "C3",
+        "velocity": 72,
+        "duration": 187
+      },
+      {
+        "time": 99101,
+        "name": "G4",
+        "velocity": 69,
+        "duration": 85
+      },
+      {
+        "time": 99192,
+        "name": "A4",
+        "velocity": 69,
+        "duration": 91
+      },
+      {
+        "time": 99313,
+        "name": "C3",
+        "velocity": 70,
+        "duration": 159
+      },
+      {
+        "time": 99483,
+        "name": "C5",
+        "velocity": 69,
+        "duration": 187
+      },
+      {
+        "time": 99704,
+        "name": "F2",
+        "velocity": 73,
+        "duration": 176
+      },
+      {
+        "time": 99903,
+        "name": "F4",
+        "velocity": 65,
+        "duration": 82
+      },
+      {
+        "time": 100002,
+        "name": "F4",
+        "velocity": 61,
+        "duration": 87
+      },
+      {
+        "time": 100118,
+        "name": "F2",
+        "velocity": 70,
+        "duration": 161
+      },
+      {
+        "time": 100296,
+        "name": "F4",
+        "velocity": 61,
+        "duration": 80
+      },
+      {
+        "time": 100393,
+        "name": "F4",
+        "velocity": 61,
+        "duration": 87
+      },
+      {
+        "time": 100508,
+        "name": "F2",
+        "velocity": 72,
+        "duration": 166
+      },
+      {
+        "time": 100691,
+        "name": "F4",
+        "velocity": 61,
+        "duration": 82
+      },
+      {
+        "time": 100790,
+        "name": "F4",
+        "velocity": 61,
+        "duration": 80
+      },
+      {
+        "time": 100898,
+        "name": "G2",
+        "velocity": 70,
+        "duration": 152
+      }
+    ]
+  }
+]

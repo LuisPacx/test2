@@ -1,0 +1,164 @@
+[
+  {
+    "instrumentName": "Electric Piano 1",
+    "notes": [
+      {
+        "time": 0,
+        "name": "D5",
+        "velocity": 87,
+        "duration": 801
+      },
+      {
+        "time": 806,
+        "name": "C5",
+        "velocity": 87,
+        "duration": 282
+      },
+      {
+        "time": 1099,
+        "name": "Db5",
+        "velocity": 87,
+        "duration": 1201
+      },
+      {
+        "time": 2305,
+        "name": "A4",
+        "velocity": 87,
+        "duration": 0
+      },
+      {
+        "time": 2311,
+        "name": "F3",
+        "velocity": 87,
+        "duration": 0
+      },
+      {
+        "time": 2373,
+        "name": "G5",
+        "velocity": 87,
+        "duration": 0
+      },
+      {
+        "time": 2378,
+        "name": "C4",
+        "velocity": 87,
+        "duration": 0
+      },
+      {
+        "time": 2446,
+        "name": "E4",
+        "velocity": 87,
+        "duration": 447
+      },
+      {
+        "time": 2898,
+        "name": "A5",
+        "velocity": 87,
+        "duration": 292
+      },
+      {
+        "time": 3196,
+        "name": "D6",
+        "velocity": 87,
+        "duration": 297
+      },
+      {
+        "time": 3498,
+        "name": "G6",
+        "velocity": 87,
+        "duration": 0
+      }
+    ]
+  },
+  {
+    "instrumentName": "Electric Piano 1",
+    "notes": [
+      {
+        "time": 6,
+        "name": "F5",
+        "velocity": 87,
+        "duration": 790
+      },
+      {
+        "time": 1105,
+        "name": "C3",
+        "velocity": 87,
+        "duration": 1189
+      }
+    ]
+  },
+  {
+    "instrumentName": "Electric Piano 1",
+    "notes": [
+      {
+        "time": 45,
+        "name": "A5",
+        "velocity": 87,
+        "duration": 446
+      },
+      {
+        "time": 497,
+        "name": "F5",
+        "velocity": 87,
+        "duration": 293
+      },
+      {
+        "time": 1172,
+        "name": "E5",
+        "velocity": 87,
+        "duration": 1116
+      }
+    ]
+  },
+  {
+    "instrumentName": "Electric Piano 1",
+    "notes": [
+      {
+        "time": 1178,
+        "name": "G3",
+        "velocity": 87,
+        "duration": 522
+      },
+      {
+        "time": 1706,
+        "name": "Bb4",
+        "velocity": 87,
+        "duration": 503
+      }
+    ]
+  },
+  {
+    "instrumentName": "Electric Piano 1",
+    "notes": [
+      {
+        "time": 1246,
+        "name": "A5",
+        "velocity": 87,
+        "duration": 449
+      },
+      {
+        "time": 1771,
+        "name": "Db5",
+        "velocity": 87,
+        "duration": 432
+      }
+    ]
+  },
+  {
+    "instrumentName": "Electric Piano 1",
+    "notes": [
+      {
+        "time": 1252,
+        "name": "Bb3",
+        "velocity": 87,
+        "duration": 437
+      },
+      {
+        "time": 1850,
+        "name": "E5",
+        "velocity": 87,
+        "duration": 348
+      }
+    ]
+  }
+]
