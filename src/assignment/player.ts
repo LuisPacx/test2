@@ -1,5 +1,4 @@
 import { Synthesizer } from '../synthesizer/Synthesizer';
-
 import { Track } from '../types';
 import { delayAsync, buildTimer } from '../util';
 import { PlayerInterface } from './playerInterface';
@@ -7,58 +6,119 @@ import { PlayerInterface } from './playerInterface';
 export function player(synthesizer: Synthesizer, tracks: ReadonlyArray<Track>): PlayerInterface {
   const timer = buildTimer();
 
+  // Controls the main playback loop
   let isPlaying = false;
+
+  // Holds the specific timestamp we want to jump to
+  let nextTimestamp: number | null = null;
+
+  // Syncs the internal wall-clock timer with the musical timestamp after a skip
+  let timeOffset = 0;
+
+  // We need a reference to the current delay's controller so skipToTimestamp can interrupt it
+  let activeAbortController: AbortController | null = null;
 
   async function skipToTimestamp(timestamp: number): Promise<void> {
     console.log('Skipping to timestamp requested:', timestamp);
-    console.log('Actual elapsed time before skip:', timer(), 'ms');
+    // 1. Set the target
+    nextTimestamp = timestamp + 200;
+
+    // 2. Abort the currently playing note's delay.
+    // This triggers an AbortError in the play() loop, which we catch to restart the loop.
+    if (activeAbortController) {
+      activeAbortController.abort();
+    }
   }
 
   async function play(): Promise<void> {
     isPlaying = true;
 
-    for (const track of tracks) {
-      const channel = synthesizer.getChannel(track.instrumentName);
+    // Cache channels once to avoid creating duplicates if we restart the loop due to a skip
+    const channels = tracks.map(track => synthesizer.getChannel(track.instrumentName));
 
-      for (const note of track.notes) {
-        // 1. Create a NEW AbortController for this specific notes delay
-        const noteAbortController = new AbortController();
-        const signal = noteAbortController.signal;
+    // Labeled loop allows us to "restart" the sequence when a skip occurs
+    mainLoop: while (isPlaying) {
+      let virtualTime = 0; // The current position in the score
 
-        // 2. Define the Abort Function
-        const abortCurrentDelay = () => {
-          noteAbortController.abort();
-        };
+      // Check if we are starting this iteration in "Seeking" mode
+      let seeking = nextTimestamp !== null;
+      const seekTarget = nextTimestamp || 0;
+      nextTimestamp = null;
 
-        // 3. Pass the abort function to the channel when playing the note
-        // the link is now established
-        channel.playNote(note.name, note.velocity, abortCurrentDelay);
+      for (let i = 0; i < tracks.length; i++) {
+        const track = tracks[i];
+        const channel = channels[i];
 
-        // Check if the note has been stopped externally
-        if (channel.didSignalStop) {
-          console.log(`Channel for instrument ${track.instrumentName} has been stopped. Exiting play loop.`);
-          isPlaying = false;
-          return;
-        }
+        for (const note of track.notes) {
+          if (!isPlaying) break mainLoop;
 
-        try {
-          // 4. Wait on the delay, which can be aborted by the channel
-          await delayAsync(note.duration, signal);
-        } catch (error: any) {
-          // 5. Catch the AbortError (triggered by stop() -> synthesizer.close() -> channel.close() -> abortCurrentDelay())
-          if (error.name === 'AbortError') {
-            console.log(`Playback aborted by user's stop action.`);
-            isPlaying = false;
-            return; // Exit the entire play sequence
+          // --- 1. SEEKING LOGIC ---
+          if (seeking) {
+            // If this note finishes before our target, skip it entirely (Fast Forward)
+            if (virtualTime + note.duration < seekTarget) {
+              virtualTime += note.duration;
+              continue;
+            }
+
+            // We have reached the target note. Stop seeking and resume play.
+            seeking = false;
+
+            // Recalculate offset. 
+            // We want getTime() to return the 'virtualTime' (song position).
+            // timer() is wall-clock time since start.
+            // Equation: timer() + timeOffset = virtualTime
+            timeOffset = virtualTime - timer();
           }
-          throw error;
+
+          // --- 2. PLAYBACK LOGIC ---
+
+          // Create a new controller for this specific note
+          activeAbortController = new AbortController();
+          const signal = activeAbortController.signal;
+
+          const abortCurrentDelay = () => {
+            activeAbortController?.abort();
+          };
+
+          channel.playNote(note.name, note.velocity, abortCurrentDelay);
+
+          if (channel.didSignalStop) {
+            console.log(`Channel for instrument ${track.instrumentName} has been stopped.`);
+            isPlaying = false;
+            return;
+          }
+
+          try {
+            await delayAsync(note.duration, signal);
+          } catch (error: any) {
+            // Handle Abort (User pressed Stop OR Skip)
+            if (error.name === 'AbortError') {
+              channel.stopNote(); // Ensure note cuts off immediately
+
+              if (nextTimestamp !== null) {
+                // CASE: SKIP
+                // The user asked to skip. We stopped the current note. 
+                // Now we continue 'mainLoop' to restart the track iteration 
+                // and fast-forward to the new timestamp.
+                continue mainLoop;
+              } else {
+                // CASE: STOP
+                console.log(`Playback aborted by user.`);
+                isPlaying = false;
+                return;
+              }
+            }
+            throw error;
+          }
+
+          channel.stopNote();
+          virtualTime += note.duration;
         }
-
-        channel.stopNote();
       }
-    }
 
-    isPlaying = false;
+      // If we finished all tracks naturally without interruption
+      isPlaying = false;
+    }
   }
 
   function getTime(): number {
@@ -68,7 +128,8 @@ export function player(synthesizer: Synthesizer, tracks: ReadonlyArray<Track>): 
       return 0;
     }
 
-    return elapsed;
+    // Return wall-clock time adjusted by our skip offsets
+    return elapsed + timeOffset;
   }
 
   return {
