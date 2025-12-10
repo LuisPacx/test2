@@ -80,8 +80,8 @@ export const PlayerModal: FC<PlayerModalProps> = ({ score, shouldAutoStart, onAu
 
           {isViewingScore && <button className="secondary" onClick={toggleViewScore}>View live</button>}
 
-          <button className="secondary" disabled={!playerController.hasFastForward()} onClick={() => playerController.fastForward(-20_000)}>Rewind 2s</button>
-          <button className="secondary" disabled={!playerController.hasFastForward()} onClick={() => playerController.fastForward(20_000)}>Forward 2s</button>
+          <button className="secondary" disabled={!playerController.hasFastForward()} onClick={() => playerController.fastForward(-2000)}>Rewind 2s</button>
+          <button className="secondary" disabled={!playerController.hasFastForward()} onClick={() => playerController.fastForward(2000)}>Forward 2s</button>
 
           <button className="secondary" onClick={onRequestClose}>Close</button>
         </div>
