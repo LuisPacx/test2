@@ -76,8 +76,11 @@ export function player(synthesizer: Synthesizer, tracks: ReadonlyArray<Track>): 
           activeAbortController = new AbortController();
           const signal = activeAbortController.signal;
 
+          // tmeporary local-scoped constant for the current controller
+          const currentNoteAbortController = activeAbortController;
+
           const abortCurrentDelay = () => {
-            activeAbortController?.abort();
+            currentNoteAbortController.abort();
           };
 
           channel.playNote(note.name, note.velocity, abortCurrentDelay);
