@@ -19,9 +19,9 @@ export function player(synthesizer: Synthesizer, tracks: ReadonlyArray<Track>): 
   let activeAbortController: AbortController | null = null;
 
   async function skipToTimestamp(timestamp: number): Promise<void> {
-    console.log('Skipping to timestamp requested:', timestamp);
     // 1. Set the target
-    nextTimestamp = timestamp + 200;
+    // Add a small buffer to avoid edge cases where it get unsynced
+    nextTimestamp = timestamp + 100;
 
     // 2. Abort the currently playing note's delay.
     // This triggers an AbortError in the play() loop, which we catch to restart the loop.
